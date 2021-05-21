@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: dataaaa
 
 # Controls when the action will run. 
 on:
@@ -35,3 +35,39 @@ jobs:
           downloaded_filename: dtt_coverage_en.csv
           # A URL containing data to fetch.
           http_url: https://www.ofca.gov.hk/filemanager/ofca/common/datagovhk/dtt_coverage_en.csv
+      - name: List of Carrier Licensees (English)
+        # You may pin to the exact commit or the version.
+        # uses: githubocto/flat@14d538577eca49658f129ede3cb3ec8cdd6d1bed
+        uses: githubocto/flat@v2.0.2
+        with:
+          # The filename to use for writing data.
+          downloaded_filename: carrier_lic_en.csv
+          # A URL containing data to fetch.
+          http_url: https://www.ofca.gov.hk/filemanager/ofca/common/datagovhk/carrier_lic_en.csv
+      - name: List of Internet Service Providers (ISP) (English)
+        # You may pin to the exact commit or the version.
+        # uses: githubocto/flat@14d538577eca49658f129ede3cb3ec8cdd6d1bed
+        uses: githubocto/flat@v2.0.2
+        with:
+          # The filename to use for writing data.
+          downloaded_filename: isp_en.csv
+          # A URL containing data to fetch.
+          http_url: https://www.ofca.gov.hk/filemanager/ofca/common/datagovhk/isp_en.csv
+      - name: Names of Broadcasting Licensees and their Registered Addresses (English)
+        # You may pin to the exact commit or the version.
+        # uses: githubocto/flat@14d538577eca49658f129ede3cb3ec8cdd6d1bed
+        uses: githubocto/flat@v2.0.2
+        with:
+          # The filename to use for writing data.
+          downloaded_filename: Broadcasting_Licensee_List_en.csv
+          # A URL containing data to fetch.
+          http_url: https://www.ofca.gov.hk/filemanager/ofca/common/datagovhk/Broadcasting_Licensee_List_en.csv
+      - name: Register of Public Payphone
+        # You may pin to the exact commit or the version.
+        # uses: githubocto/flat@14d538577eca49658f129ede3cb3ec8cdd6d1bed
+        uses: githubocto/flat@v2.0.2
+        with:
+          # The filename to use for writing data.
+          downloaded_filename: PayPhoneRegister.csv
+          # A URL containing data to fetch.
+          http_url: https://www.ofca.gov.hk/filemanager/ofca/common/datagovhk/PayPhoneRegister.csv
