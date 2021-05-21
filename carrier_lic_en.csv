@@ -1,0 +1,62 @@
+﻿LIC_TYPE,LIC_NO,LICENSEE_NAME,ISSUE_DATE,INTERNAL_FIXED,CABLE_FIXED,NON_CABLE_FIXED,MOBILE_SERVICE,OTHER_SERVICE
+MCL,099,"Hong Kong Telecommunications (HKT) Limited",2008-11-20,N,N,N,Y,N
+UCL,001,"China Tietong Group (HK) Company Limited",2008-08-08,N,Y,Y,N,N
+UCL,002,"China Mobile Hong Kong Company Limited",2020-04-01,Y,N,N,Y,Y
+UCL,004,"Hutchison Telephone Company Limited",2020-04-01,N,N,N,Y,N
+UCL,005,"STT Limited",2015-02-03,N,Y,Y,Y,N
+UCL,006,"Deutsche Telekom Global Business Solutions China (HK) Limited",2009-03-03,N,Y,Y,N,N
+UCL,007,"Genius Brand Limited",2013-06-01,N,N,N,Y,N
+UCL,008,"Hong Kong Telecommunications (HKT) Limited",2020-04-01,Y,N,N,Y,N
+UCL,010,"Orange Business Services Hong Kong Limited",2017-04-02,N,Y,Y,N,N
+UCL,011,"KDDI Hong Kong Limited",2009-03-31,N,Y,Y,N,N
+UCL,012,"Donghwa Telecom Co., Limited",2009-04-17,N,Y,Y,N,N
+UCL,013,"Bharti Airtel (Hong Kong) Limited",2009-05-15,N,Y,Y,N,N
+UCL,014,"Reach Networks Hong Kong Limited and Reach Cable Networks Limited",2009-06-29,Y,Y,Y,N,N
+UCL,016,"Telekom Malaysia (Hong Kong) Limited",2017-06-12,N,Y,Y,N,N
+UCL,017,"China Telecom Global Limited",2013-08-22,Y,Y,Y,N,N
+UCL,018,"SmarTone Mobile Communications Limited",2020-04-01,N,N,N,Y,Y
+UCL,019,"StarHub (Hong Kong) Limited",2009-09-21,N,Y,Y,N,N
+UCL,020,"GB21 (Hong Kong) Limited",2015-10-20,N,Y,Y,N,N
+UCL,021,"Vodafone Enterprise Hong Kong Limited",2010-02-05,Y,Y,Y,N,N
+UCL,022,"HKBN Enterprise Solutions Limited",2010-06-20,Y,Y,N,N,Y
+UCL,023,"HGC Global Communications Limited",2010-06-30,Y,Y,N,N,N
+UCL,025,"PCCW-HKT Telephone Limited and Hong Kong Telecommunications (HKT) Limited",2010-06-29,Y,Y,Y,N,N
+UCL,026,"Telstra International HK Limited and Telstra International Limited",2010-07-12,Y,Y,Y,N,N
+UCL,028,"HKBN Enterprise Solutions HK Limited",2010-06-27,Y,Y,Y,N,Y
+UCL,031,"BT Hong Kong Limited",2020-02-01,N,Y,Y,N,N
+UCL,032,"Verizon Hong Kong Limited",2011-02-17,Y,Y,Y,N,N
+UCL,033,"Telekomunikasi Indonesia International (Hong Kong) Limited",2011-03-01,N,Y,Y,N,N
+UCL,034,"NTT Com Asia Limited",2015-04-01,Y,Y,Y,N,N
+UCL,035,"China Mobile International Limited",2011-05-31,Y,Y,Y,N,N
+UCL,036,"CTM (HK) Limited",2011-08-15,N,Y,Y,N,N
+UCL,037,"SpeedCast Limited",2011-08-26,N,N,N,Y,N
+UCL,038,"21 ViaNet Group Limited",2012-03-30,Y,N,N,Y,Y
+UCL,039,"Tata Communications (Hong Kong) Limited",2015-02-10,N,Y,Y,N,N
+UCL,040,"Equinix Hong Kong Limited",2013-06-27,Y,N,N,N,N
+UCL,042,"Hong Kong Cable Television Limited",2015-01-18,Y,N,N,N,N
+UCL,044,"China Satellite Communications (Hong Kong) Corporation Limited",2015-01-31,N,Y,Y,Y,N
+UCL,045,"Hong Kong Broadband Network Limited",2015-02-03,Y,Y,Y,N,Y
+UCL,046,"SmarTone Communications Limited",2015-02-03,Y,N,N,N,N
+UCL,047,"Towngas Telecommunications Fixed Network Limited",2015-02-16,Y,Y,Y,N,N
+UCL,048,"GlobeCast Hong Kong Limited",2015-02-24,N,Y,Y,N,N
+UCL,049,"PCCW Global (HK) Limited",2015-02-25,Y,Y,Y,N,N
+UCL,050,"APT Satellite Company Limited",2015-04-30,N,Y,Y,Y,N
+UCL,051,"Superloop (Hong Kong) Limited",2015-08-07,Y,N,N,N,N
+UCL,052,"China Unicom (Hong Kong) Operations Limited",2015-10-18,Y,Y,Y,N,N
+UCL,053,"Television Broadcasts Limited",2015-12-01,N,N,N,N,Y
+UCL,054,"HK Television Entertainment Company Limited",2016-01-29,N,N,N,N,Y
+UCL,055,"FLAG Telecom Asia Limited",2016-05-31,N,Y,Y,N,N
+UCL,056,"Village Telephone Limited",2017-01-25,Y,N,N,N,N
+UCL,057,"IPS,Inc",2017-03-22,N,Y,Y,N,N
+UCL,058,"HONG KONG AVIATION TECHNOLOGY DEVELOPMENT LIMITED",2017-07-10,N,N,N,Y,N
+UCL,059,"Easy Tone Network Limited",2017-09-07,Y,N,N,N,N
+UCL,060,"ComNet Telecom (HK) Limited",2018-01-20,Y,Y,Y,N,N
+UCL,061,"AT&T Global Network Services Hong Kong Limited",2018-01-28,N,Y,Y,N,N
+UCL,062,"TraxComm Limited",2018-06-02,Y,N,N,N,N
+UCL,063,"CITIC Telecom International CPC Limited",2018-08-08,N,Y,Y,N,N
+UCL,064,"PLDT (HK) Limited",2018-09-19,N,Y,Y,N,N
+UCL,065,"HKC Network Limited",2018-12-03,Y,Y,Y,N,N
+UCL,069,"Asia Satellite Telecommunications Company Limited",2019-05-03,N,Y,Y,N,N
+UCL,070,"Pacific Light Data Communication Co., Limited",2019-05-09,N,Y,Y,N,N
+UCL,071,"Aofei Data International Company Limited",2019-09-12,N,Y,Y,N,N
+UCL,072,"Asia-Pacific Navigation Telecommunication (Hong Kong) Limited",2020-03-13,N,N,N,Y,N
