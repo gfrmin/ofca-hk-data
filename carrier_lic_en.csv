@@ -1,6 +1,6 @@
 ﻿LIC_TYPE,LIC_NO,LICENSEE_NAME,ISSUE_DATE,INTERNAL_FIXED,CABLE_FIXED,NON_CABLE_FIXED,MOBILE_SERVICE,OTHER_SERVICE
 UCL,001,"China Tietong Group (HK) Company Limited",2008-08-08,N,Y,Y,N,N
-UCL,002,"China Mobile Hong Kong Company Limited",2021-09-30,Y,N,N,Y,Y
+UCL,002,"China Mobile Hong Kong Company Limited",2021-12-30,Y,N,N,Y,Y
 UCL,004,"Hutchison Telephone Company Limited",2021-09-30,N,N,N,Y,N
 UCL,005,"STT Limited",2015-02-03,N,Y,Y,Y,N
 UCL,006,"Deutsche Telekom Global Business Solutions China (HK) Limited",2009-03-03,N,Y,Y,N,N
@@ -13,7 +13,7 @@ UCL,013,"Bharti Airtel (Hong Kong) Limited",2009-05-15,N,Y,Y,N,N
 UCL,014,"Reach Networks Hong Kong Limited and Reach Cable Networks Limited",2009-06-29,Y,Y,Y,N,N
 UCL,016,"Telekom Malaysia (Hong Kong) Limited",2017-06-12,N,Y,Y,N,N
 UCL,017,"China Telecom Global Limited",2013-08-22,Y,Y,Y,N,N
-UCL,018,"SmarTone Mobile Communications Limited",2021-09-30,N,N,N,Y,Y
+UCL,018,"SmarTone Mobile Communications Limited",2021-12-30,N,N,N,Y,Y
 UCL,019,"StarHub (Hong Kong) Limited",2009-09-21,N,Y,Y,N,N
 UCL,020,"GB21 (Hong Kong) Limited",2015-10-20,N,Y,Y,N,N
 UCL,021,"Vodafone Enterprise Hong Kong Limited",2010-02-05,Y,Y,Y,N,N
@@ -24,7 +24,7 @@ UCL,026,"Telstra International HK Limited and Telstra International Limited",201
 UCL,028,"HKBN Enterprise Solutions HK Limited",2010-06-27,Y,Y,Y,N,Y
 UCL,031,"BT Hong Kong Limited",2020-02-01,N,Y,Y,N,N
 UCL,032,"Verizon Hong Kong Limited",2011-02-17,Y,Y,Y,N,N
-UCL,033,"Telekomunikasi Indonesia International (Hong Kong) Limited",2011-03-01,N,Y,Y,N,N
+UCL,033,"Telekomunikasi Indonesia International (HongKong) Limited",2011-03-01,N,Y,Y,N,N
 UCL,034,"NTT Com Asia Limited",2015-04-01,Y,Y,Y,N,N
 UCL,035,"China Mobile International Limited",2011-05-31,Y,Y,Y,N,N
 UCL,036,"CTM (HK) Limited",2011-08-15,N,Y,Y,N,N
@@ -58,4 +58,4 @@ UCL,065,"HKC Network Limited",2018-12-03,Y,Y,Y,N,N
 UCL,069,"Asia Satellite Telecommunications Company Limited",2019-05-03,N,Y,Y,N,N
 UCL,070,"Pacific Light Data Communication Co., Limited",2019-05-09,N,Y,Y,N,N
 UCL,071,"Aofei Data International Company Limited",2019-09-12,N,Y,Y,N,N
-UCL,072,"Asia-Pacific Navigation Telecommunication (Hong Kong) Limited",2020-03-13,N,N,N,Y,N
+UCL,072,"Asia-Pacific Navigation Telecommunication Satellite (Hong Kong) Limited",2020-03-13,N,N,N,Y,N
