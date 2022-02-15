@@ -174,4 +174,568 @@ HKT-1824,HKT,Queensway,"Outside Exit C1, MTR's Admiralty Station",Central and We
 HKT-1880,HKT,Hennessy Road / Canal Road West,Outside Chang Pao Ching Building,Wan Chai,HK,,Y
 HKT-1914,HKT,Connaught Road Central,Outside Shun Tak Centre,Central and Western,HK,,Y
 HKT-1915,HKT,Connaught Road Central,Outside Shun Tak Centre,Central and Western,HK,Y,
-HKT-1955,HKT,Ap Lei Chau Bridge
+HKT-1955,HKT,Ap Lei Chau Bridge Road ,"Near Lei Chak House, Ap Lei Chau Estate / Bus Stop",Southern,HK,,Y
+HKT-1960,HKT,Aberdeen Main Road,"Near Bus Terminus, Aberdeen",Southern,HK,Y,
+HKT-1961,HKT,Aberdeen Main Road,"Near Bus Terminus, Aberdeen",Southern,HK,,Y
+HKT-1974,HKT,Nam Ning Street,"Outside Mei Fung Court, Aberdeen Centre",Southern,HK,,Y
+HKT-2005,HKT,Electric Road / Power Street,Outside Wah Hoi Mansion,Eastern,HK,Y,
+HKT-2008,HKT,King's Road / Healthy Street Central,Outside La Place de Victoria,Eastern,HK,,Y
+HKT-2042,HKT,Shau Kei Wan Road / Hoi Ning Street,Outside Hoi Ning Street Sitting-out Area,Eastern,HK,Y,
+HKT-2055,HKT,Moorsom Road / Chun Fai Road,Outside Chun Fai Centre,Wan Chai,HK,Y,
+HKT-2062,HKT,Lei King Road / Tai Hong Street,Outside Sai Wan Ho Health Centre,Eastern,HK,,Y
+HKT-2074,HKT,Hennessy Road,"Outside Cameron Commercial Centre, near Tang Lung Street",Wan Chai,HK,,Y
+HKT-2109,HKT,Des Voeux Road West,Outside Hung Cheong House,Central and Western,HK,,Y
+HKT-2147,HKT,Lockhart Road,Outside Wharney Guang Dong Hotel,Wan Chai,HK,Y,
+HKT-2158,HKT,Hennessy Road,"Outside Exit A2, MTR's Wan Chai Station",Wan Chai,HK,Y,
+HKT-2159,HKT,Hennessy Road,"Outside Exit A2, MTR's Wan Chai Station",Wan Chai,HK,,Y
+HKT-2303,HKT,Electric Road,"Outside Block 3, City Garden Block, near City Garden Hotel",Eastern,HK,Y,
+HKT-2320,HKT,Des Voeux Road Central,"Outside Statue Square, near Prince's Building",Central and Western,HK,Y,Y
+HKT-2321,HKT,Chater Road,"Outside Statue Square, near Prince's Building",Central and Western,HK,Y,
+HKT-2330,HKT,Queen's Road West,Outside Shek Tong Tsui Municipal Services Building,Central and Western,HK,Y,
+HKT-2337,HKT,Conduit Road,Outside Elegant Garden,Central and Western,HK,,Y
+HKT-2338,HKT,Caine Road,Outside Albron Court,Central and Western,HK,,Y
+HKT-2339,HKT,King's Road ,Outside Island Place Tower,Eastern,HK,,Y
+HKT-2351,HKT,Repulse Bay,Outside Repulse Bay Beach Building,Southern,HK,,Y
+HKT-2355,HKT,Queen's Road West / Hollywood Road,Outside Tung Hing Court,Central and Western,HK,,Y
+HKT-2356,HKT,Queen's Road West / Hollywood Road,Outside Tung Hing Court,Central and Western,HK,,Y
+HKT-2357,HKT,Shu Kuk Street,"Near Block 1, Roca Centre / Exit B1, MTR's North Point Station",Eastern,HK,,Y
+HKT-2358,HKT,Shek Pik Reservoir Road,Outside Shek Pik Prison,Islands,NT,,Y
+HKT-2359,HKT,Shek Pik Reservoir Road,Outside Sha Tsui Correctional Institution Bus Stop,Islands,NT,,Y
+HKT-2361,HKT,Oi Kan Road,"Near Tung Chi House / Tung King House, Tung Yuk Court",Eastern,HK,Y,
+HKT-2363,HKT,Victoria Park,Near Soccer Pitch No. 2 / Jogging Track,Wan Chai,HK,,Y
+HKT-2364,HKT,Victoria Park,Near Soccer Pitch No. 3 / Jogging Track,Wan Chai,HK,,Y
+HKT-2388,HKT,Connaught Road Central / Pedder Street,Outside World Wide House,Central and Western,HK,,Y
+HKT-2389,HKT,Connaught Road Central / Pedder Street,Outside World Wide House,Central and Western,HK,,Y
+HKT-2398,HKT,Percival Street / Hennessy Road,Outside Causeway Bay Plaza 1,Wan Chai,HK,,Y
+HKT-2399,HKT,Man Kwong Street,Outside Central Pier No. 5,Central and Western,HK,Y,
+HKT-2400,HKT,Man Kwong Street,Outside Central Pier No. 7,Central and Western,HK,Y,
+HKT-4008,HKT,Tung Lung Road,"Outside Wong Tung House, Tung Tau (II) Estate, near Choi Tung House",Wong Tai Sin,KLN,Y,
+HKT-4021,HKT,Lung Poon Street,"Outside Exit A1, MTR's Diamond Hill Station",Wong Tai Sin,KLN,Y,
+HKT-4023,HKT,Kai Lim Road,"Outside Artificial Turf Soccer Pitch, Kwun Tong Recreation Ground",Kwun Tong,KLN,Y,
+HKT-4029,HKT,Hiram's Highway / Nam Wai Road,"Outside Exit, Roseville Villas",Sai Kung,NT,,Y
+HKT-4030,HKT,Tai A Mun Road,"Outside Carpark, Clear Water Bay Second Beach, near Police Report Centre",Sai Kung,NT,,Y
+HKT-4032,HKT,Pak Sha Wan Tam Wah Ching Sea Acivity Centre,Outside Office,Sai Kung,NT,,Y
+HKT-4033,HKT,Clear Water Bay Road,"Outside Carpark, Clear Water Bay Country Park",Sai Kung,NT,,Y
+HKT-4035,HKT,Silverstrand Beach Road,"Outside Carpark, Silverstrand Beach",Sai Kung,NT,,Y
+HKT-4038,HKT,Lung Cheung Road ,"Outside Toilet, Lung Cheung Road Lookout",Sham Shui Po,KLN,Y,
+HKT-4039,HKT,Wang Tau Hom East Road,"Near Exit A, MTR's Lok Fu Station",Wong Tai Sin,KLN,Y,
+HKT-4040,HKT,Fu Mei Street,"Outside Wang On House / Wang Fu House, Wang Tau Hom Estate",Wong Tai Sin,KLN,,Y
+HKT-4042,HKT,Junction Road,Outside Kam Shing Road Recreation Ground,Kowloon City,KLN,Y,
+HKT-4056,HKT,To Kwa Wan Road,Outside Wearbest Building,Kowloon City,KLN,Y,
+HKT-4057,HKT,To Kwa Wan Road,Outside Wearbest Building,Kowloon City,KLN,,Y
+HKT-4073,HKT,Nathan Road,Outside Parklane Shopper's Boulevard,Yau Tsim Mong ,KLN,Y,
+HKT-4074,HKT,Urban Council Centenary Garden,Outside Peninsula Centre,Yau Tsim Mong ,KLN,Y,
+HKT-4075,HKT,Nathan Road,"Outside Exit C2, MTR's Tsim Sha Tsui Station",Yau Tsim Mong ,KLN,,Y
+HKT-4077,HKT,Nathan Road,"Outside Exit D, MTR's Jordan Station",Yau Tsim Mong ,KLN,Y,
+HKT-4084,HKT,Mody Road,Outside Intercontinental Grand Stanford Hotel,Yau Tsim Mong ,KLN,Y,
+HKT-4089,HKT,Urban Council Centenary Garden,Outside Regal Kowloon Hotel,Yau Tsim Mong ,KLN,Y,
+HKT-4091,HKT,Middle Road ,Outside Kowloon Hotel,Yau Tsim Mong ,KLN,,Y
+HKT-4099,HKT,Hanoi Road / Carnarvon Road,Outside B C C Building,Yau Tsim Mong ,KLN,Y,
+HKT-4100,HKT,Nathan Road,Outside Parklane Shopper's Boulevard,Yau Tsim Mong ,KLN,Y,
+HKT-4107,HKT,Nathan Road,Outside Pacific Mansion,Yau Tsim Mong ,KLN,,Y
+HKT-4116,HKT,Salisbury Road,Outside YMCA of Hong Kong,Yau Tsim Mong ,KLN,Y,
+HKT-4121,HKT,Nathan Road,Outside Prudential Centre,Yau Tsim Mong ,KLN,,Y
+HKT-4127,HKT,Nathan Road,Outside Tsim Sha Tsui Police Station,Yau Tsim Mong ,KLN,Y,
+HKT-4129,HKT,Nathan Road,Outside Mercantile House,Yau Tsim Mong ,KLN,Y,
+HKT-4135,HKT,Nathan Road,"Outside Exit C2, MTR's Tsim Sha Tsui Station",Yau Tsim Mong ,KLN,,Y
+HKT-4138,HKT,Jordan Road,"Outside Exit D, MTR's Jordan Station",Yau Tsim Mong ,KLN,Y,
+HKT-4140,HKT,Mody Road / Science Museum Road,Outside Chinachem Golden Plaza,Yau Tsim Mong ,KLN,Y,
+HKT-4141,HKT,Kowloon Park Drive,Outside YMCA of Hong Kong,Yau Tsim Mong ,KLN,,Y
+HKT-4151,HKT,Cameron Road / Carnarvon Road,Outside Hang Seng Tsim Sha Tsui Building,Yau Tsim Mong ,KLN,Y,
+HKT-4154,HKT,Nathan Road,Outside The One,Yau Tsim Mong ,KLN,Y,
+HKT-4163,HKT,Yan King Road,"Outside Yan Lan House, Yan Ming Court",Sai Kung,NT,,Y
+HKT-4164,HKT,Po Lam Road North,"Near Yan Chung House, Yan Ming Court / Bus Stop",Sai Kung,NT,Y,
+HKT-4166,HKT,Po Lam Estate,"Outside Po Yan House, near Po Lam Road North",Sai Kung,NT,Y,
+HKT-4167,HKT,Po Lam Estate,"Outside Po Tak House, near Po Lam Road North",Sai Kung,NT,Y,
+HKT-4169,HKT,Po Lam Road North / Tsui Lam Road,"Outside Yuk King House, King Ming Court, near Bus Stop",Sai Kung,NT,Y,
+HKT-4172,HKT,Kowloon Park Drive,Outside The Langham Hong Kong,Yau Tsim Mong ,KLN,Y,
+HKT-4177,HKT,Canton Road,Outside Prince Hotel,Yau Tsim Mong ,KLN,,Y
+HKT-4180,HKT,Canton Road,Outside Ocean Centre,Yau Tsim Mong ,KLN,Y,
+HKT-4188,HKT,Lion Rock Road,Outside Sun On House,Kowloon City,KLN,Y,
+HKT-4189,HKT,Carpenter Road / Tak Ku Ling Road,Outside Carpenter Road Park,Kowloon City,KLN,,Y
+HKT-4191,HKT,Prince Edward Road West / Nga Tsin Long Road,Outside The Prince Place,Kowloon City,KLN,Y,
+HKT-4196,HKT,Prince Edward Road East,Outside Tak Ku Ling Road Rest Garden,Kowloon City,KLN,Y,
+HKT-4197,HKT,Prince Edward Road West / Junction Road,Outside Smart A,Kowloon City,KLN,Y,
+HKT-4198,HKT,Carpenter Road / Nam Kok Road,Outside Lok Sin Tong Primary School,Kowloon City,KLN,,Y
+HKT-4200,HKT,Pak Tam Road,Outside Tai Tan BBQ Site,Tai Po,NT,Y,
+HKT-4201,HKT,Tung Yan Street / Yue Man Square,Outside Yue Man Mansion,Kwun Tong,KLN,Y,Y
+HKT-4203,HKT,Kwun Tong Road,"Outside Bus Stop, MTR's Kwun Tong Station / Hong Kong Student Aid Society",Kwun Tong,KLN,Y,
+HKT-4205,HKT,Tsui Ping (North) Estate,Outside Tsui Yue House,Kwun Tong,KLN,Y,
+HKT-4212,HKT,Tung Yan Street / Yue Man Square,Outside Yue Man Mansion,Kwun Tong,KLN,Y,
+HKT-4217,HKT,Kwun Tong Ferry Pier,"Outside Bus Terminus, Kwun Tong Ferry Pier",Kwun Tong,KLN,Y,
+HKT-4221,HKT,Lee On Lane,"Outside Public Toilet, Shun Lee Tsuen Playground, near United Christian College (Kowloon East)",Kwun Tong,KLN,Y,
+HKT-4222,HKT,Lee On Road,Near Shun On Estate Carpark / Bus Stop,Kwun Tong,KLN,Y,
+HKT-4224,HKT,Cheung Sha Wan Road / Mei Lai Road,Outside Evangel Seminary,Sham Shui Po,KLN,Y,
+HKT-4237,HKT,Lai Cho Road,"Outside Bus Terminus, Lai Yiu Estate",Kwai Tsing,NT,,Y
+HKT-4238,HKT,King Cho Road,"Outside Bus Terminus, Cho Yiu Chuen",Kwai Tsing,NT,Y,
+HKT-4242,HKT,Lai King Hill Road,"Outside Bus Terminus, Lai King North",Kwai Tsing,NT,,Y
+HKT-4253,HKT,Ting Yip Street / Ting Fu Street,Outside Ngau Tau Kok Public Toilet Bath House,Kwun Tong,KLN,Y,
+HKT-4260,HKT,Berwick Street,Outside Mei Shan House,Sham Shui Po,KLN,,Y
+HKT-4262,HKT,Berwick Street,Outside Sunning Mansion,Sham Shui Po,KLN,Y,
+HKT-4269,HKT,Tai Po Road / Un Chau Street,Outside Petroleum Station,Sham Shui Po,KLN,Y,
+HKT-4275,HKT,Argyle Street / Peace Avenue,Outside Shing Tak Mansion,Kowloon City,KLN,Y,
+HKT-4278,HKT,Ma Tau Wai Road / San Shan Road,"Outside Block 1, Horae Place",Kowloon City,KLN,Y,Y
+HKT-4289,HKT,Lady Maclehose Holiday Village,Outside Bungalow No. 17,Sai Kung,NT,,Y
+HKT-4299,HKT,Fuk Man Road,"Outside Bus Terminus, Sai Kung",Sai Kung,NT,Y,
+HKT-4300,HKT,Sai Sha Road,"Outside Sai Sha Road BBQ Area Site 2, Kei Ling Ha Lo Wai",Tai Po,NT,,Y
+HKT-4303,HKT,Hiram's Highway,Outside Kau Sai San Tsuen / Heber's Villa,Sai Kung,NT,Y,
+HKT-4310,HKT,Nathan Road / Prince Edward Road West,Outside Bijou Apartments,Yau Tsim Mong ,KLN,Y,
+HKT-4311,HKT,Argyle Street,"Outside Exit D2, MTR's Mong Kok Station",Yau Tsim Mong ,KLN,Y,
+HKT-4315,HKT,Sai Yeung Choi Street South,"Outside Exit D3, MTR's Mong Kok Station",Yau Tsim Mong ,KLN,,Y
+HKT-4320,HKT,Argyle Street,Outside Wai Fung Plaza,Yau Tsim Mong ,KLN,Y,
+HKT-4329,HKT,Sai Yeung Choi Street South / Nullah Road,Outside Allied Plaza,Yau Tsim Mong ,KLN,Y,
+HKT-4337,HKT,Bute Street,Outside Mascot House,Yau Tsim Mong ,KLN,Y,
+HKT-4339,HKT,Nathan Road,Outside Hang Seng Mong Kong Building,Yau Tsim Mong ,KLN,Y,
+HKT-4343,HKT,Tat Chee Avenue / Tseuk Kiu Street,Outside Tseuk Kiu Street Sitting-out Area,Sham Shui Po,KLN,Y,
+HKT-4352,HKT,Willow Street,"Outside Basketball Court, Sycamore Playground",Yau Tsim Mong ,KLN,,Y
+HKT-4353,HKT,Nullah Road,Outside Prince Edward Road / Nullah Road Garden,Yau Tsim Mong ,KLN,Y,
+HKT-4356,HKT,Castle Peak Road / Yen Chow Street,Outside Wing Shing Building,Sham Shui Po,KLN,Y,
+HKT-4358,HKT,Castle Peak Road / Kowloon Road,Near Garden Bakery,Sham Shui Po,KLN,Y,
+HKT-4359,HKT,Tung Chau Street Park,Near Food Kiosk,Sham Shui Po,KLN,,Y
+HKT-4368,HKT,Cheong San Lane,"Outside Cheong Him House, Nam Cheong Estate",Sham Shui Po,KLN,,Y
+HKT-4369,HKT,Cheung Sha Wan Road,"Outside Lai Ho House, Lai Kok Estate",Sham Shui Po,KLN,Y,
+HKT-4371,HKT,Cheung Sha Wan Road,"Outside BOC Cheung Sha Wan Building, near Exit B1, MTR's Sham Shui Po Station",Sham Shui Po,KLN,Y,
+HKT-4374,HKT,Camp Street,Outside Un On Building,Sham Shui Po,KLN,Y,
+HKT-4389,HKT,Arthur Street / Man Ming Lane,"Near Exit C, MTR's Yau Ma Tei Station",Yau Tsim Mong ,KLN,Y,
+HKT-4390,HKT,Dundas Street,Outside Ko's House,Yau Tsim Mong ,KLN,Y,
+HKT-4397,HKT,Nathan Road,Outside Arthur Street Temporary Playground,Yau Tsim Mong ,KLN,Y,
+HKT-4398,HKT,Nathan Road,Outside Eaton Hotel,Yau Tsim Mong ,KLN,Y,
+HKT-4402,HKT,Nathan Road,Outside Arthur Street Temporary Playground,Yau Tsim Mong ,KLN,Y,
+HKT-4404,HKT,Nathan Road / Pitt Street,"Near Exit A1, MTR's Yau Ma Tei Station",Yau Tsim Mong ,KLN,Y,
+HKT-4417,HKT,Nathan Road,Outside Wing On Department Store,Yau Tsim Mong ,KLN,,Y
+HKT-4419,HKT,Nathan Road,Outside Wing On Department Store,Yau Tsim Mong ,KLN,Y,
+HKT-4422,HKT,Nathan Road,Outside Eaton Hotel,Yau Tsim Mong ,KLN,Y,Y
+HKT-4429,HKT,Nathan Road,Outside Wing On Department Store,Yau Tsim Mong ,KLN,Y,
+HKT-4437,HKT,Prince Edward Road East,"Outside Block 5, Rhythm Garden",Wong Tai Sin,KLN,Y,
+HKT-4438,HKT,Hong Keung Street,"Outside Hong Kung Street Rest Garden, near Hong King Building",Wong Tai Sin,KLN,Y,
+HKT-4440,HKT,Chuk Yuen (North) Estate,Outside Mui Yuen House,Wong Tai Sin,KLN,,Y
+HKT-4444,HKT,Choi Hung Road,"Outside Pik Hoi House, near Roundabout",Wong Tai Sin,KLN,,Y
+HKT-4447,HKT,Choi Hung Road,"Near San Po Kong Mansion, Bus Stop",Wong Tai Sin,KLN,Y,
+HKT-4450,HKT,Prince Edward Road East,"Outside The Latitude, near Bus Stop",Wong Tai Sin,KLN,Y,
+HKT-4453,HKT,Hammer Hill Road,"Outside East Kowloon Polyclinic, near Bus Stop",Wong Tai Sin,KLN,Y,
+HKT-4466,HKT,Sau Nga Road / Hip Wo Street,Outside Sau Nga Road Playground,Kwun Tong,KLN,,Y
+HKT-4491,HKT,Ma Tau Wai Road,Outside Morning Ray Mansion,Kowloon City,KLN,Y,
+HKT-4493,HKT,Cha Kwo Ling Road,Outside Laguna Plaza,Kwun Tong,KLN,Y,
+HKT-4504,HKT,Cheung Sha Wan Road,"Near Exit, Yee Kok Court",Sham Shui Po,KLN,Y,
+HKT-4507,HKT,Tai Hang Tung Road /  Tong Yam Street,Outside Tai Hang Tung Recreation Ground,Sham Shui Po,KLN,,Y
+HKT-4508,HKT,Lai Chi Kok Road / Broadway,"Outside Shopping Centre, Mei Foo Sun Chuen Stage 4",Sham Shui Po,KLN,Y,
+HKT-4510,HKT,Choi Fung Path,"Outside Kam Lam House, Choi Wan (I) Estate",Wong Tai Sin,KLN,,Y
+HKT-4525,HKT,Chatham Road South,Outside Park Hotel,Yau Tsim Mong ,KLN,Y,
+HKT-4533,HKT,San Ma Tau Street,Outside Kowloon City Ferry Pier,Kowloon City,KLN,Y,
+HKT-4534,HKT,Canton Road,Outside Silvercord,Yau Tsim Mong ,KLN,Y,
+HKT-4536,HKT,Boundary Street / Fa Yuen Street,Outside Boundary View,Yau Tsim Mong ,KLN,Y,
+HKT-4537,HKT,Shanghai Street,Outside Shanghai Street / Market Street Playground,Yau Tsim Mong ,KLN,,Y
+HKT-4538,HKT,Public Square Street,Outside Prosperous Garden Shopping Centre,Yau Tsim Mong ,KLN,,Y
+HKT-4542,HKT,Kwun Tong Road,"Outside Bus Terminus, Kwun Tong Road (Elegance Road)",Kwun Tong,KLN,Y,
+HKT-4543,HKT,Tai Mong Tsai Road,"Outside Bus Stop, Pak Tam Chung, near Sai Kung Country Park Visitor Centre",Sai Kung,NT,,Y
+HKT-4545,HKT,Shun On Road,"Near Bus Terminus, Shun Tin Estate",Kwun Tong,KLN,Y,
+HKT-4547,HKT,On Tin Street,Outside Tak Tin Plaza,Kwun Tong,KLN,Y,
+HKT-4552,HKT,Lee On Road,"Outside Bus Terminus, Shun Lee Estate",Kwun Tong,KLN,Y,
+HKT-4553,HKT,Prince Edward Road West / Portland Street,"Outside Exit C2, MTR's Prince Edward Station",Yau Tsim Mong ,KLN,Y,
+HKT-4554,HKT,Lin Tak Road,"Outside Choi Tin House, Hing Tin Estate",Kwun Tong,KLN,Y,
+HKT-4555,HKT,Lin Tak Road,"Outside Mei Tin House, Hing Tin Estate",Kwun Tong,KLN,Y,
+HKT-4557,HKT,Tai Hang Tung Road,Outside Concordia Lutheran School,Sham Shui Po,KLN,Y,
+HKT-4561,HKT,Lok Wah North Estate,Outside Bus Terminus,Kwun Tong,KLN,Y,
+HKT-4597,HKT,Nathan Road / Kimberley Road,Outside Mira Place 2,Yau Tsim Mong ,KLN,Y,
+HKT-4606,HKT,Lai Chi Kok Road / Arran Street,Outside Mong Kok Civil Triangle,Yau Tsim Mong ,KLN,Y,
+HKT-4631,HKT,Hong Ning Road / Shung Yan Street,Outside Hong Yue Centre,Kwun Tong,KLN,Y,
+HKT-4633,HKT,Shui Wo Street,Outside Shui Wo Public Market,Kwun Tong,KLN,Y,
+HKT-4634,HKT,Fu Yan Street / Mut Wah Street,Outside Hong Ning Building,Kwun Tong,KLN,Y,
+HKT-4639,HKT,Lee On Road,"Near On Yat House, Shun On Estate / Exit, Shun On Estate Carpark",Kwun Tong,KLN,Y,
+HKT-4641,HKT,Choi Hei Road,"Outside Choi Yuet House, Choi Ha Estate",Kwun Tong,KLN,Y,
+HKT-4662,HKT,Po Lo Che Road / Tan Cheung Road ,Near Pavilion / HAD Notice Board,Sai Kung,NT,Y,
+HKT-4663,HKT,Hiram's Highway,"Outside Marina Cove Shopping Centre, near Bus Stop",Sai Kung,NT,Y,
+HKT-4691,HKT,Nam Cheong Street,Outside Shek Kip Mei Community Centre,Sham Shui Po,KLN,Y,
+HKT-4695,HKT,Lai Chi Kok Road / Pei Ho Street,Outside Ever Rich Mansion,Sham Shui Po,KLN,Y,
+HKT-4696,HKT,Lai Chi Kok Road / Pei Ho Street,Outside Ever Rich Mansion,Sham Shui Po,KLN,Y,
+HKT-4701,HKT,Po Fung Road / Mau Yip Road,Outside Shun Tak Fraternal Association Leung Kit Wah Primary School,Sai Kung,NT,Y,
+HKT-4702,HKT,Ap Liu Street,"Outside Exit A2, MTR's Sham Shui Po Station",Sham Shui Po,KLN,Y,
+HKT-4703,HKT,Ap Liu Street,"Outside Exit A2, MTR's Sham Shui Po Station",Sham Shui Po,KLN,Y,Y
+HKT-4706,HKT,Castle Peak Road - Kwai Chung,"Near Bus Stop (Northbound), Wah Yuen Chuen",Kwai Tsing,NT,Y,
+HKT-4709,HKT,Yuk Nga Lane,Outside Po Tsui Park / Yan Chai Hospital Lan Chi Pat Memorial Secondary School,Sai Kung,NT,Y,
+HKT-4710,HKT,Shun Ning Road,Outside Sunrise House,Sham Shui Po,KLN,Y,
+HKT-4713,HKT,Cheung Sha Wan Road / Wong Chuk Street,Outside Maple Street Playground,Sham Shui Po,KLN,Y,
+HKT-4730,HKT,Cheung Sha Wan Road,"Outside Tower 1, Cheung Sha Wan Plaza",Sham Shui Po,KLN,Y,
+HKT-4734,HKT,Cheung Sha Wan Road / Tung Chau West Street,"Outside Exit C, MTR's Lai Chi Kok Station",Sham Shui Po,KLN,Y,
+HKT-4736,HKT,Hing Wah Street,Outside Wo Hing Building,Sham Shui Po,KLN,Y,
+HKT-4743,HKT,Tsui Lam Estate,Near Choi Lam House / Tsui Lam Community Hall,Sai Kung,NT,Y,
+HKT-4745,HKT,Chung Wa Road / Sheung Ning Road,Outside TKO Gateway,Sai Kung,NT,Y,
+HKT-4783,HKT,Kwun Tong Road / Hoi Yuen Road,Outside Lladro Centre,Kwun Tong,KLN,Y,
+HKT-4788,HKT,Jordan Road,Outside Doubleset Commercial Centre,Yau Tsim Mong ,KLN,Y,
+HKT-4802,HKT,South Wall Road / Nga Tsin Wai Road,Outside 18 South Wall Road,Kowloon City,KLN,Y,
+HKT-4813,HKT,Lai Wan Road,"Near Lai Chi Kok Government Offices / Exit, Lai Chi Kok Park Carpark",Sham Shui Po,KLN,Y,
+HKT-4837,HKT,Lai Chi Kok Road / Shanghai Street,Outside 703 Shanghai Street,Yau Tsim Mong ,KLN,Y,
+HKT-4843,HKT,Humphrey's Avenue,"Outside Exit A2, MTR's Tsim Sha Tsui Station",Yau Tsim Mong ,KLN,Y,
+HKT-4846,HKT,Shanghai Street,Outside Hoi Fung Mansion,Yau Tsim Mong ,KLN,Y,
+HKT-4855,HKT,Po Lam Road North,"Outside King Min House, King Lam Estate, near Bus Stop (Northbound), King Lam Estate",Sai Kung,NT,Y,
+HKT-4861,HKT,Chan Man Street,Outside Sai Kung Garden,Sai Kung,NT,Y,
+HKT-4866,HKT,King Man Street,"Outside Sha Tsui Playground, near Sai Kung Government Offices",Sai Kung,NT,Y,
+HKT-4877,HKT,Po On Road,Outside Lei Cheng Uk Shopping Centre,Sham Shui Po,KLN,Y,
+HKT-4884,HKT,Prince Edward Road West,Outside Padek Palace,Kowloon City,KLN,Y,
+HKT-4908,HKT,Ma Tau Wai Road / Pak Kung Street,Outside Pak Tai Temple,Kowloon City,KLN,Y,
+HKT-4914,HKT,Woh Chai Street,"Outside Block 23, Shek Kip Mei Estate, near Bus Stop",Sham Shui Po,KLN,Y,
+HKT-4915,HKT,Tai Hang Sai Street,Near Shek Kip Mei Central Playground,Sham Shui Po,KLN,Y,
+HKT-4920,HKT,Tai Hang Tung Estate,"Outside Tung Lung House, near Bus Terminus, Tai Hang Tung",Sham Shui Po,KLN,Y,
+HKT-4922,HKT,Tai Hang Sai Street,"Outside Cooked Food Stall, Nam Shan Estate",Sham Shui Po,KLN,Y,
+HKT-4923,HKT,Jordan Valley Playground,"Near Children Playground, Clock Tower",Kwun Tong,KLN,,Y
+HKT-4925,HKT,Cheung Tong Road / Winslow Street,Outside On Tai Mansion,Kowloon City,KLN,Y,
+HKT-4944,HKT,Lai On Estate,Outside Lai Wing House,Sham Shui Po,KLN,,Y
+HKT-4951,HKT,Clear Water Bay Road,"Outside Bus Stop, Pak Shek Wo",Sai Kung,NT,Y,
+HKT-4962,HKT,Po Shun Road,"Outside King Yung House, King Lam Estate",Sai Kung,NT,,Y
+HKT-4966,HKT,Cheung Sha Wan Road,"Outside Exit B1, MTR's Lai Chi Kok Station",Sham Shui Po,KLN,Y,
+HKT-4967,HKT,Cheung Sha Wan Road,"Outside Tower 2, Cheung Sha Wan Plaza",Sham Shui Po,KLN,Y,
+HKT-4972,HKT,Castle Peak Road / Hing Wah Street,"Outside Shopping Centre, Heya Star",Sham Shui Po,KLN,Y,
+HKT-4975,HKT,Lok Nga Court,Near Nga Ping House / Carpark,Kwun Tong,KLN,Y,
+HKT-4983,HKT,Hong Kin Road,Near Tui Min Hoi Public Market,Sai Kung,NT,Y,
+HKT-4984,HKT,Hong Kin Road,"Outside 1 Lake Court / Exit, Costa Bello ",Sai Kung,NT,Y,
+HKT-4985,HKT,Pak Kong Road,"Near Exit, Pak Kong Village",Sai Kung,NT,Y,
+HKT-5011,HKT,Po Fung Road / Yan King Road,Outside Metro City Phase 2,Sai Kung,NT,Y,
+HKT-5036,HKT,Playing Field Road / Tung Choi Street,Outside Kenwook Mansion,Yau Tsim Mong ,KLN,Y,
+HKT-5037,HKT,Portland Street,Outside Edward Mansion,Yau Tsim Mong ,KLN,Y,
+HKT-5051,HKT,Arran Street,Outside Hung Luen Building,Yau Tsim Mong ,KLN,Y,
+HKT-5060,HKT,Waterloo Road,Outside 3A Waterloo Road,Yau Tsim Mong ,KLN,Y,
+HKT-5065,HKT,Lai Chi Kok Road,Outside SKH Kei Wing Primary School,Yau Tsim Mong ,KLN,,Y
+HKT-5071,HKT,Argyle Street,Outside On May Mansion,Yau Tsim Mong ,KLN,Y,
+HKT-5091,HKT,Cheung Sha Wan Road,Outside Tin On Industrial Building,Sham Shui Po,KLN,Y,
+HKT-5135,HKT,South Wall Road / Nga Tsin Wai Road,Outside Goldview Court,Kowloon City,KLN,Y,
+HKT-5136,HKT,Lung Cheung Road,"Outside Exit A, MTR's Wong Tai Sin Station",Wong Tai Sin,KLN,,Y
+HKT-5157,HKT,Tsui Ping (North) Estate,Outside Tsui On House,Kwun Tong,KLN,Y,
+HKT-5158,HKT,Tsui Ping (North) Estate,Outside Tsui Nam House,Kwun Tong,KLN,Y,
+HKT-5173,HKT,On Tin Street,Outside St Paul's School (Lam Tin),Kwun Tong,KLN,Y,
+HKT-5202,HKT,Kwai Foo Road,"Outside Kwai Ching House, Kwai Fong Estate",Kwai Tsing,NT,Y,
+HKT-5204,HKT,On Chit Street,"Outside Kar Yam House, On Yam Estate",Kwai Tsing,NT,Y,
+HKT-5211,HKT,Wang Tau Hom East Road,"Outside Bus Terminus, Lok Fu Estate",Wong Tai Sin,KLN,Y,
+HKT-5217,HKT,Wang Tau Hom East Road / Fu Mei Street,"Outside Wang Yip House, Wang Tau Hom Estate",Wong Tai Sin,KLN,,Y
+HKT-5219,HKT,Wang Tau Hom East Road,"Outside Wang Kei House / Wang Tak House, Wang Tau Hom Estate",Wong Tai Sin,KLN,Y,
+HKT-5245,HKT,Hoi Fai Road / Cherry Street,"Outside Tower 7, Island Harbourview",Yau Tsim Mong ,KLN,Y,
+HKT-5264,HKT,Ho Chung Road,Near 27 Ho Chung First Lane,Sai Kung,NT,Y,
+HKT-5265,HKT,Clear Water Bay Road / Tai Au Mun Road,Near Bus Stop,Sai Kung,NT,,Y
+HKT-5270,HKT,Lung Cheung Road,"Outside Block 2, Tropicana Gardens",Wong Tai Sin,KLN,Y,
+HKT-5277,HKT,Woh Chai Street / Tong Yam Street,Outside Ample Building,Sham Shui Po,KLN,Y,
+HKT-5289,HKT,Cheung Wo Court,Outside Wo Hang House,Kwun Tong,KLN,Y,
+HKT-5292,HKT,Chak On Road,"Outside Exit, Chak On Estate Carpark, near Wah Chak House",Sham Shui Po,KLN,Y,
+HKT-5489,HKT,Lung Cheung Road,"Near Morse Park Swimming Pool, Bus Stop",Wong Tai Sin,KLN,Y,
+HKT-5519,HKT,Tai Shing Street / Tai Tung Street,Outside Confucian Tai Shing Primary School,Wong Tai Sin,KLN,Y,
+HKT-5520,HKT,Kwun Tong Road / Lai Yip Street,Outside No. 1 Hung To Road,Kwun Tong,KLN,Y,
+HKT-5628,HKT,Sycamore Street,Outside Kowloon Sam Yuk Secondary School (Chow's Campus),Yau Tsim Mong ,KLN,Y,
+HKT-5650,HKT,Oak Street,Outside Anchor Street Playground,Yau Tsim Mong ,KLN,Y,
+HKT-5655,HKT,Man Tai Street,"Outside Wing Wing House, Whampoa Estate",Kowloon City,KLN,Y,Y
+HKT-5661,HKT,Man Yue Street,Outside Kaiser Estate Phase 1,Kowloon City,KLN,Y,
+HKT-5746,HKT,Wang Lung Road,"Outside Football Pitch, Po Hong Park, near Park Office",Sai Kung,NT,,Y
+HKT-5752,HKT,Tat Chee Avenue,"Outside Block 17, Parc Oasis, near The Jockey Club Environmental Building",Sham Shui Po,KLN,Y,
+HKT-5818,HKT,Clear Water Bay Road / Sheung Sze Wan Road,Near Refuse Collection Point,Sai Kung,NT,,Y
+HKT-5820,HKT,Fat Kwong Street,"Near Food Kiosk, Fat Kwong Street Garden No. 1",Kowloon City,KLN,,Y
+HKT-5826,HKT,Lok Wah Playground,Outside Public Toilet,Kwun Tong,KLN,Y,
+HKT-5827,HKT,Lei Yue Mun Path,Outside Lei Yue Mun Public Library,Kwun Tong,KLN,Y,
+HKT-5831,HKT,Sai Yeung Choi Street South,Outside Pioneer Centre,Yau Tsim Mong ,KLN,,Y
+HKT-5837,HKT,Prince Edward Road West,"Outside Exit B1, MTR's Prince Edward Station",Yau Tsim Mong ,KLN,,Y
+HKT-5838,HKT,Nathan Road,Outside Champion Building,Yau Tsim Mong ,KLN,Y,
+HKT-5839,HKT,Nathan Road,Outside Champion Building,Yau Tsim Mong ,KLN,,Y
+HKT-5847,HKT,Tsim Sha Tsui Star Ferry Pier Bus Terminus,Near Star Ferry Pier,Yau Tsim Mong ,KLN,,Y
+HKT-5848,HKT,Tsim Sha Tsui Star Ferry Pier Bus Terminus,Near Star Ferry Pier,Yau Tsim Mong ,KLN,,Y
+HKT-5849,HKT,Tsim Sha Tsui Star Ferry Pier Bus Terminus,Near Star Ferry Pier,Yau Tsim Mong ,KLN,,Y
+HKT-5853,HKT,Sai Yeung Choi Street South,"Near Exit B3, MTR's Mong Kok Station",Yau Tsim Mong ,KLN,Y,
+HKT-5854,HKT,Carpenter Road / Fuk Lo Tsuen Road,Outside Comfort Mansion,Kowloon City,KLN,,Y
+HKT-5857,HKT,Tsim Sha Tsui Star Ferry Pier Bus Terminus,Outside Star House,Yau Tsim Mong ,KLN,Y,
+HKT-5997,HKT,Kai King Road,"Outside King Nam House, King Lam Estate",Sai Kung,NT,Y,
+HKT-5998,HKT,Choi Yee Lane,"Outside Bus Stop, near Canossa Primary School (San Po Kong)",Wong Tai Sin,KLN,,Y
+HKT-7006,HKT,Kwai Cheong Road,Outside Roxy Industrial Centre,Kwai Tsing,NT,Y,
+HKT-7018,HKT,Castle Peak Road - Tam Mei,Outside Chuk Yuen Tsuen Village Gate,Yuen Long,NT,,Y
+HKT-7019,HKT,Ngau Tam Mei Road,Near Ngau Tam Mei Village Office,Yuen Long,NT,Y,
+HKT-7020,HKT,Castle Peak Road - Tam Mei,Near Elite Garden / Petroleum Station,Yuen Long,NT,,Y
+HKT-7025,HKT,Lok Ma Chau Village,Outside Pavilion,Yuen Long,NT,,Y
+HKT-7027,HKT,Chau Tau Tsuen,Outside Chau Tau Tsuen Village Office,Yuen Long,NT,,Y
+HKT-7032,HKT,Lung Wan Street / Lung Sum Lane,"Near Carpark Exit, Metropolis Plaza",North,NT,,Y
+HKT-7033,HKT,San Fung Avenue / Lung Sum Avenue,Outside Moon Wah Building,North,NT,Y,
+HKT-7035,HKT,San Fung Avenue / Fu Hing Street,Outside 87 San Fung Avenue,North,NT,,Y
+HKT-7042,HKT,Lung Wan Street,Outside Mini Bus Terminus,North,NT,Y,
+HKT-7046,HKT,Ping Kong Road,Outside 7 Ping Kong Village,North,NT,,Y
+HKT-7052,HKT,Container Port Road South,"Outside Security Office, HIT Limited",Kwai Tsing,NT,,Y
+HKT-7059,HKT,Yi Hong Street,"Outside Hoi Har Mansion, Riviera Garden",Tsuen Wan,NT,,Y
+HKT-7061,HKT,Container Port Road,"Near Office, Container Terminal 2",Kwai Tsing,NT,Y,
+HKT-7064,HKT,Tai Ha Street,"Outside Fu Man House, Tai Wo Hau Estate",Kwai Tsing,NT,Y,
+HKT-7066,HKT,Shek Yam Road,Outside Shek Yam Road Rest Garden ,Kwai Tsing,NT,,Y
+HKT-7073,HKT,Kwai Yan Road,"Outside Exit D, MTR's Kwai Fong Station, near Kwai Foo Road",Kwai Tsing,NT,Y,
+HKT-7074,HKT,Kwai Hing Road,"Outside Bus Terminus, MTR's Kwai Hing Station / Public Toilet",Kwai Tsing,NT,Y,
+HKT-7075,HKT,Kwai Hau Street,"Outside Block 1, Kwai Shing West Estate, near Mini Bus Stop",Kwai Tsing,NT,,Y
+HKT-7076,HKT,Wo Yi Hop Road / Ta Chuen Ping Street,"Outside Block B, Po Sing Centre",Kwai Tsing,NT,,Y
+HKT-7077,HKT,Kwai Luen Road,Outside Kwai Shing West Estate Bus Terminus,Kwai Tsing,NT,Y,
+HKT-7093,HKT,Tai Lin Pai Road,Outside Roxy Industrial Building,Kwai Tsing,NT,Y,
+HKT-7108,HKT,Sha Tau Kok Road - Shek Chung Au,Outside Sha Tau Kok Clinic,North,NT,,Y
+HKT-7109,HKT,Bride's Pool Road,Outside Bride's Pool Road Public Toilet,North,NT,,Y
+HKT-7115,HKT,Heng On Estate,"Outside Bus Terminus, Heng On Estate",Sha Tin,NT,Y,
+HKT-7117,HKT,Cheung Wah Estate,"Outside Cheung Wah Shopping Centre, near Taxi Stand",North,NT,Y,
+HKT-7118,HKT,Fanling Station Road,"Outside Exit C, MTR's Fanling Station",North,NT,,Y
+HKT-7130,HKT,Sui Wo Court,"Outside Bus Terminus, near Shui Wo Court Commercial Centre",Sha Tin,NT,,Y
+HKT-7136,HKT,Sun Chui Estate,"Outside Carpark, Sun Chui Estate",Sha Tin,NT,Y,
+HKT-7137,HKT,Mei Tin Road,"Near Bus Terminus, Mei Lam Estate",Sha Tin,NT,Y,
+HKT-7138,HKT,Sha Tin Centre Street,"Outside Sha Tin Plaza, near Sha Tin Public Market",Sha Tin,NT,Y,
+HKT-7140,HKT,Lung Pak Street,Outside World Wide Garden,Sha Tin,NT,,Y
+HKT-7153,HKT,Sha Tin Centre Street,"Outside Sha Tin Plaza, near Sha Tin Public Market",Sha Tin,NT,,Y
+HKT-7161,HKT,Bride's Pool Road,"Near Bus Stop, Plover Cove Country Park",Tai Po,NT,,Y
+HKT-7162,HKT,Bride's Pool Road,Outside Chung Pui BBQ Site,Tai Po,NT,,Y
+HKT-7165,HKT,Butterfly Estate,Outside Butterfly Bay Community Centre,Tuen Mun,NT,Y,
+HKT-7166,HKT,Tai Fong Street,"Outside Hing Fai House, near LRT's Tai Hing (South) Station",Tuen Mun,NT,Y,
+HKT-7168,HKT,Tsing Wun Road,"Outside Yeung Siu Hang Garden, near Tuen Mun Campus, Hong Kong Institute of Vocational Education",Tuen Mun,NT,Y,
+HKT-7170,HKT,Leung King Estate,"Outside Leung Chi House, near San Shun House, San Wai Court",Tuen Mun,NT,Y,
+HKT-7171,HKT,Tin King Road,"Near Bus Terminus / Tin Tsui House, Leung King Estate",Tuen Mun,NT,Y,
+HKT-7172,HKT,Leung King Estate,"Outside Carpark, Leung King Plaza, near Leung Kit House",Tuen Mun,NT,,Y
+HKT-7173,HKT,Wu King Road,"Outside Wu Boon House, Wu King Estate, near Taoist Ching Chung Primary School (Wu King Estate)",Tuen Mun,NT,,Y
+HKT-7174,HKT,Shek Pai Tau Road,"Outside King Lai House, Shan King Estate, near Bus Stop",Tuen Mun,NT,Y,
+HKT-7175,HKT,On Chee Road / On Po Road,"Outside Block 1, Tai Po Centre",Tai Po,NT,,Y
+HKT-7177,HKT,On Po Road,"Outside Bus Terminus, Tai Po Centre",Tai Po,NT,Y,
+HKT-7178,HKT,On Chee Road / On Cheung Road,"Outside Block C, Jade Plaza",Tai Po,NT,Y,
+HKT-7180,HKT,Tai Mei Tuk Road,Outside Tai Mei Tuk Public Toilet,Tai Po,NT,Y,
+HKT-7181,HKT,Nam Wan Road,Kwong Fuk Football Ground,Tai Po,NT,,Y
+HKT-7182,HKT,Ting Kok Road,Outside Tai Po Government Offices,Tai Po,NT,,Y
+HKT-7184,HKT,Hong Lok Yuen Town Centre Crescent,Outside Hong Lok Yuen Property Services Centre,Tai Po,NT,,Y
+HKT-7187,HKT,Po Nga Road,"Outside Bus Terminus, Tai Wo Estate",Tai Po,NT,Y,
+HKT-7188,HKT,Island House Lane,"Near Exit, Yuen Chau Tsai Park",Tai Po,NT,,Y
+HKT-7189,HKT,Island House Lane,"Outside Kwong Lai House, Kwong Fuk Estate",Tai Po,NT,Y,
+HKT-7190,HKT,Po Nga Road,"Outside Tsui Wo House, Tai Wo Estate",Tai Po,NT,Y,
+HKT-7192,HKT,Mui Shu Hang Road,"Outside Block A, Tai Po Garden",Tai Po,NT,Y,
+HKT-7201,HKT,Tin Yiu Estate,"Outside Tin Yiu Plaza, near Taxi Stand",Yuen Long,NT,,Y
+HKT-7202,HKT,Tin Yiu Estate,"Outside Tin Yiu Plaza, near Taxi Stand",Yuen Long,NT,Y,
+HKT-7204,HKT,Tin Shui Estate,"Near Carpark Exit, Tin Shui Shopping Centre",Yuen Long,NT,Y,
+HKT-7211,HKT,Kadoorie Beach,Outside Changing Room,Tuen Mun,NT,,Y
+HKT-7212,HKT,Cafeteria New Beach,Near No. 1 Lookout,Tuen Mun,NT,,Y
+HKT-7213,HKT,Tuen Mun Promenade,Outside Tuen Mun Ferry Pier,Tuen Mun,NT,Y,
+HKT-7215,HKT,Tuen Shun Street / Tuen Lung Street,"Outside Block 3, Tuen Mun Town Plaza / Taxi Stand",Tuen Mun,NT,Y,
+HKT-7219,HKT,Hoi Chu Road / Fung On Street,"Outside Tower 5, Goodview Garden",Tuen Mun,NT,Y,
+HKT-7220,HKT,Butterfly Beach Park,Outside Park Office,Tuen Mun,NT,,Y
+HKT-7222,HKT,Tuen Mun Heung Sze Wui Road,"Near Block 2, Eldo Court",Tuen Mun,NT,Y,
+HKT-7223,HKT,Yau Oi Road,"Outside Oi Yee House, Yau Oi Estate, near LRT's Yau Oi Station",Tuen Mun,NT,,Y
+HKT-7225,HKT,On Ting Estate,Outside Lui Cheung Kwong Lutheran College,Tuen Mun,NT,Y,
+HKT-7226,HKT,On Ting Estate,"Outside Ting Lung House, near On Ting / Yau Oi Community Centre",Tuen Mun,NT,Y,
+HKT-7227,HKT,Cheung Shan Estate Road West,Outside Cheung Shan Shopping Centre,Tsuen Wan,NT,Y,
+HKT-7230,HKT,Castle Peak Road - Tsuen Wan,"Outside Block 2, Belvedere Garden Phase 1",Tsuen Wan,NT,Y,
+HKT-7232,HKT,Hoi Pa Street,"Outside Wing Tai House, Fuk Loi Estate",Tsuen Wan,NT,Y,
+HKT-7236,HKT,Castle Peak Road - Tsuen Wan,Outside Tsuen Kam Centre,Tsuen Wan,NT,Y,
+HKT-7248,HKT,Sai Lau Kok Road / Kwu Uk Lane,Near Sam Tung Uk Museum,Tsuen Wan,NT,Y,
+HKT-7249,HKT,Tai Ho Road / Dung Fat Street,Outside Red Cross Tsuen Wan Donor Centre,Tsuen Wan,NT,,Y
+HKT-7250,HKT,Shing Mun Road,"Outside Food Kiosk, Shing Mun Country Park",Tsuen Wan,NT,Y,
+HKT-7255,HKT,Tsuen King Circuit,"Outside Block 1, Tsuen King Garden",Tsuen Wan,NT,Y,
+HKT-7256,HKT,Tai Ho Road,Outside Po Shing Mansion,Tsuen Wan,NT,Y,
+HKT-7269,HKT,Ching Hong Road,Outside Ching Shing Court,Kwai Tsing,NT,Y,
+HKT-7282,HKT,Yuen Chau Kok Road / Kong Pui Street,Outside Chi Hong Primary School,Sha Tin,NT,Y,
+HKT-7285,HKT,Kwong Sin Street,"Near Bayan House, Kwong Yuen Estate",Sha Tin,NT,Y,
+HKT-7290,HKT,Ngan Shing Street,"Outside Block 11, City One, near Bus Stop",Sha Tin,NT,Y,
+HKT-7309,HKT,Castle Peak Road - Hung Shui Kiu,"Outside Block 5, Treasure Court",Yuen Long,NT,,Y
+HKT-7312,HKT,Tai Tong Shan Road,Outside Tai Tong BBQ Site No. 6,Yuen Long,NT,,Y
+HKT-7317,HKT,Yuen Long Hong Lok Road / Yan Lok Square,Outside Hong Lok Plaza,Yuen Long,NT,Y,
+HKT-7329,HKT,Kik Yeung Road,Outside Kik Yeung Road 5-a-side Football Pitch,Yuen Long,NT,Y,
+HKT-7330,HKT,Castle Peak Road - Yuen Long / Fung Nin Road,Outside Yuen Long Merchants Association Primary School,Yuen Long,NT,Y,
+HKT-7334,HKT,Wu Fai Street,"Outside Wu Yuet House, Wu King Estate",Tuen Mun,NT,Y,
+HKT-7337,HKT,Chak Fung Street,Outside LRT's Ngan Wai Station,Tuen Mun,NT,Y,
+HKT-7340,HKT,Kiu Hing Road,Outside Shap Pat Heung Wong Nai Tun Tsuen Village Office,Yuen Long,NT,,Y
+HKT-7347,HKT,Shek Wu Wai Road,Near 1E Shek Wu Wai,Yuen Long,NT,,Y
+HKT-7349,HKT,Tai Sang Wai,Near Tai Sang Wai Tsuen Village Office,Yuen Long,NT,,Y
+HKT-7351,HKT,Castle Peak Road - Mai Po,Near Mai Po Village Gate / Bus Stop,Yuen Long,NT,Y,
+HKT-7352,HKT,Sheung Chuk Yuen,Outside Ma Kung Ting / Sheung Chuk Yuen Village Gate,Yuen Long,NT,,Y
+HKT-7354,HKT,Castle Peak Road - San Tin,Outside Fan Tin Tsuen Sitting-Out Area,Yuen Long,NT,,Y
+HKT-7355,HKT,Lam Kam Road / Kam Sheung Road,Near Petroleum Station,Yuen Long,NT,Y,
+HKT-7357,HKT,Sha Kok Street,Outside Sha Kok Cooked Food Stalls,Sha Tin,NT,,Y
+HKT-7371,HKT,Ko Fong Street,"Outside Lung Tang Building, near Footbridge",Kwai Tsing,NT,Y,
+HKT-7376,HKT,Route Twisk,"Outside Carpark, Tai Mo Shan Country Park",Yuen Long,NT,,Y
+HKT-7411,HKT,Tat Wan Road,Outside Uptown Plaza,Tai Po,NT,Y,
+HKT-7416,HKT,Tai Po Market Station,"Outside Exit B, MTR's Tai Po Market Station, near Taxi Stand",Tai Po,NT,Y,
+HKT-7417,HKT,Ting Kok Road / Mei Sun Lane,Outside Wing Fai Garden,Tai Po,NT,,Y
+HKT-7420,HKT,Luen Hing Street / Wo Tai Street,Outside Fanling St Jospeh's Church,North,NT,,Y
+HKT-7421,HKT,Luen Hing Street / Wo Fung Street,Outside Commune Modern,North,NT,Y,
+HKT-7424,HKT,Luen Shing Street / Wo Tai Street,Outside 39 Wo Tai Street,North,NT,Y,
+HKT-7426,HKT,On Cheung Road,"Outside Block C, Treasure Garden",Tai Po,NT,Y,
+HKT-7428,HKT,On Chee Road / On Cheung Road,"Outside Block C, Jade Plaza",Tai Po,NT,,Y
+HKT-7434,HKT,Fanling Station Road,"Outside Exit A2, MTR's Fanling Station",North,NT,Y,
+HKT-7435,HKT,On Chee Road,"Outside Block C, Jade Plaza",Tai Po,NT,Y,
+HKT-7436,HKT,On Chee Road,"Outside Block C, Jade Plaza",Tai Po,NT,,Y
+HKT-7438,HKT,On Chee Road / On Cheung Road,"Outside Block 3, Eightland Garden",Tai Po,NT,Y,
+HKT-7441,HKT,On Chee Road / On Cheung Road,"Outside Fu Cheong Court, Fortune Plaza",Tai Po,NT,,Y
+HKT-7443,HKT,On Chee Road,"Outside Fu Cheong Court, Fortune Plaza",Tai Po,NT,,Y
+HKT-7461,HKT,Sheung Ko Tan Street,Near Tsing Yi Lutheran New Village,Kwai Tsing,NT,Y,
+HKT-7465,HKT,Cheung Hong Estate,Outside Hong Wo House,Kwai Tsing,NT,,Y
+HKT-7480,HKT,Hing Fong Road,Outside Metro Plaza,Kwai Tsing,NT,Y,
+HKT-7484,HKT,Kwai Yan Road,"Outside Exit D, MTR's Kwai Fong Station, near Footbridge",Kwai Tsing,NT,Y,
+HKT-7486,HKT,Kwai Shing Circuit,"Outside Shing On House, Kwai Shing East Estate",Kwai Tsing,NT,Y,
+HKT-7491,HKT,Tai Po Tai Wo Road / Chui Lok Street,"Outside Block A, Greenery Plaza",Tai Po,NT,,Y
+HKT-7493,HKT,On Chee Road ,"Outside Wing Cheong Court, Fortune Plaza",Tai Po,NT,Y,
+HKT-7494,HKT,On Chee Road ,"Outside Block A, Jade Plaza",Tai Po,NT,Y,
+HKT-7496,HKT,Fu Heng Estate,"Outside Fu Heng Shopping Centre, near Bus Terminus",Tai Po,NT,Y,
+HKT-7497,HKT,Kai Wo Road,Outside Tai Wo Plaza Phase 1,Tai Po,NT,Y,
+HKT-7499,HKT,Tin Sam Street,Outside Po Leung Kuk C.W. Chu College,Sha Tin,NT,Y,
+HKT-7501,HKT,Chui Tin Street,Near Lung Hang Cooked Food Stalls,Sha Tin,NT,Y,
+HKT-7502,HKT,Hung Mui Kuk Road,"Outside Sun Ming House, Sun Chui Estate, near Bus Stop",Sha Tin,NT,Y,
+HKT-7504,HKT,Container Port Road South,"Outside Hutchison Logistics Centre, near Mini Bus Stop",Kwai Tsing,NT,,Y
+HKT-7506,HKT,Hang Hong Street,"Outside Bus Terminus, Yiu On Estate",Sha Tin,NT,Y,
+HKT-7514,HKT,Lee On Estate,"Outside Bus Terminus, Lee On Estate",Sha Tin,NT,Y,
+HKT-7518,HKT,On Shing Street,"Outside Carpark, Sunchine City Phase 4, near Footbridge",Sha Tin,NT,Y,
+HKT-7522,HKT,San Shing Avenue / Tsun Fu Street,Outside San Shing Avenue,North,NT,Y,
+HKT-7532,HKT,Lung Wan Street,Outside Mini Bus Terminus,North,NT,Y,
+HKT-7534,HKT,Chi Cheong Road,Outside Sheung Shui Town Centre,North,NT,Y,
+HKT-7569,HKT,Heung Sze Wui Street,Outside Tai Po Community Centre,Tai Po,NT,Y,
+HKT-7572,HKT,Sha Tau Kok Road - Lung Yeuk Tau,"Outside Luen Wo Hui Playground, near Bus Stop",North,NT,Y,
+HKT-7575,HKT,Luen Fat Street / Luen Fu Street,Near Fanling District Rural Committee,North,NT,,Y
+HKT-7581,HKT,Plover Cove Road,"Outside Block B, Plover Cove Garden",Tai Po,NT,Y,
+HKT-7583,HKT,Po Nga Road,"Outside Kui Wo House, Tai Wo Estate",Tai Po,NT,,Y
+HKT-7586,HKT,Tsuen Wan Market Street / Kwan Mun Hau Street,Outside Kwan Shing Building,Tsuen Wan,NT,Y,
+HKT-7598,HKT,Tai Wo Hau Road,Outside Tai Wo Hau Shopping Centre,Kwai Tsing,NT,Y,
+HKT-7605,HKT,Castle Peak Road - Tsuen Wan / Tai Ho Road,Outside Hing Hing Building,Tsuen Wan,NT,Y,
+HKT-7607,HKT,Long Ping Estate,Outside Yuet Ping House,Yuen Long,NT,Y,
+HKT-7612,HKT,Ping Wui Street,Outside Ping Wui Street Rest Garden,Yuen Long,NT,Y,
+HKT-7613,HKT,Plover Cove Road,Outside Sung Tak Wong Kin Sheung Memorial School,Tai Po,NT,Y,
+HKT-7615,HKT,Kwong Fuk Road / On Fu Road,Outside Tai Po Building,Tai Po,NT,,Y
+HKT-7622,HKT,Tsing Min Path,Outside Common Bond Building,Tuen Mun,NT,Y,
+HKT-7626,HKT,Luk Yuen Street / Kai Man Path,"Outside Yan Oi Square, near Block D, Mei Hang Building",Tuen Mun,NT,,Y
+HKT-7627,HKT,Castle Peak Road - Castle Peak Bay / Tsing Wui Street,Outside Yan Oi Public Market,Tuen Mun,NT,Y,
+HKT-7630,HKT,Leung Wan Street,Near Venice Garden / LRT's Kin Sang Station,Tuen Mun,NT,Y,
+HKT-7634,HKT,Tuen Shun Street / Tuen Hop Street,"Outside Block C, Trend Plaza",Tuen Mun,NT,Y,
+HKT-7639,HKT,Hin Keng Estate,"Outside Hin Kwai House, near Badminton Court",Sha Tin,NT,,Y
+HKT-7642,HKT,Jat Min Chuen,"Outside Ming Shun Lau, near Bus Stop",Sha Tin,NT,,Y
+HKT-7645,HKT,Luen Wo Road,"Outside Taxi Stand, Luen Wo Market",North,NT,Y,
+HKT-7650,HKT,On Po Road,"Outside Yee Lai House, Yee Nga Court",Tai Po,NT,Y,
+HKT-7652,HKT,On Po Road,"Outside Fu Shin Shopping Centre, Fu Shin Estate",Tai Po,NT,Y,
+HKT-7656,HKT,Siu Lek Yuen Road,"Outside Block 27, City One, near Bus Stop",Sha Tin,NT,Y,
+HKT-7659,HKT,Yan Ching Street / Ka Fat Path,Outside Fu Hang Building,Tuen Mun,NT,Y,
+HKT-7662,HKT,Tsing Wui Street,Outside Tsing Ho Rest Garden,Tuen Mun,NT,Y,
+HKT-7665,HKT,Sha Tin Centre Street,Outside Hilton Plaza,Sha Tin,NT,Y,
+HKT-7667,HKT,Pak Hok Ting Street,Outside Royal Park Hotel,Sha Tin,NT,Y,
+HKT-7669,HKT,Sha Tin Centre Street / Wang Pok Street,"Outside Lucky Plaza, near Sha Tin Public Market",Sha Tin,NT,,Y
+HKT-7670,HKT,Sha Tin Centre Street / Wang Pok Street,"Outside Lucky Plaza, near Sha Tin Public Market",Sha Tin,NT,,Y
+HKT-7672,HKT,Yuen Wo Road,Outside Sha Tin Fun City,Sha Tin,NT,Y,
+HKT-7677,HKT,Tam Kon Po Street,Outside Sha Tin Town Hall,Sha Tin,NT,,Y
+HKT-7680,HKT,Tam Kon Po Street,Outside Sha Tin Town Hall,Sha Tin,NT,Y,
+HKT-7685,HKT,Yuen Wo Road,Outside Sha Tin Jockey Club Swimming Pool,Sha Tin,NT,Y,
+HKT-7686,HKT,Yuen Wo Road,Outside Sha Tin Sports Ground,Sha Tin,NT,Y,
+HKT-7688,HKT,Sha Tin Public Market,Outside Sha Tin Public Market,Sha Tin,NT,Y,Y
+HKT-7689,HKT,Sha Tin Public Market,Outside Sha Tin Public Market,Sha Tin,NT,Y,
+HKT-7691,HKT,Yi Shing Square,"Near Bus Terminus, Sha Tin Wai",Sha Tin,NT,,Y
+HKT-7692,HKT,Yi Shing Square,"Near Bus Terminus, Sha Tin Wai",Sha Tin,NT,Y,
+HKT-7695,HKT,Tuen Mun Heung Sze Wui Road,"Outside LRT's Siu Lun Station, near Tsui Ning Garden",Tuen Mun,NT,Y,
+HKT-7697,HKT,Tuen Mun Heung Sze Wui Road,"Outside Bus Stop, Siu Lun Court",Tuen Mun,NT,Y,
+HKT-7701,HKT,Castle Peak Road - Lam Tei,Near LRT's Nai Wai Station,Tuen Mun,NT,,Y
+HKT-7705,HKT,Wu King Road,"Outside Block 13. Yuet Wu Villa, near LRT's Siu Hei Station",Tuen Mun,NT,Y,
+HKT-7707,HKT,On Chun Street / On Chiu Street,"Outside Blcok 4, Ma On Shan Centre",Sha Tin,NT,Y,
+HKT-7709,HKT,Kam Ying Court,Near Bus Terminus,Sha Tin,NT,Y,
+HKT-7712,HKT,On Chun Street / On Chiu Street,"Outside Exit, Villa Athena",Sha Tin,NT,Y,
+HKT-7714,HKT,Ching Hong Road,Outside Po Leung Kuk Lo Kit Sing (1983) College,Kwai Tsing,NT,Y,
+HKT-7717,HKT,Fung Shue Wo Road,"Outside Block 10, Greenfield Garden",Kwai Tsing,NT,Y,
+HKT-7725,HKT,Cheung Fat Estate,"Outside Cheung Fat Plaza, near Yin Fat House",Kwai Tsing,NT,Y,
+HKT-7728,HKT,Wing Shun Street,Outside Waterside Plaza Shopping Centre,Tsuen Wan,NT,Y,
+HKT-7729,HKT,Yeung Uk Road,Outside Caritas Jockey Club Institute of Community Education,Tsuen Wan,NT,Y,
+HKT-7737,HKT,Tai Pa Street,Outside Tsuen Wan Plaza,Tsuen Wan,NT,Y,
+HKT-7749,HKT,Fung Yau Street South,Outside SKH Bishop Baker Secondary School,Yuen Long,NT,Y,
+HKT-7755,HKT,Tai Tong Road,"Outside Manhattan Plaza, near Man Tak Building",Yuen Long,NT,Y,
+HKT-7763,HKT,On Leung Lane,Outside On Hing Playground,Yuen Long,NT,,Y
+HKT-7768,HKT,Ping Che Road,"Near Bus Stop, Lei Uk Tsuen",North,NT,,Y
+HKT-7772,HKT,Kam Tsin Road,Outside Kam Tsin Village Ho Tung School,North,NT,,Y
+HKT-7777,HKT,Yat Ming Road,"Outside Pak Fuk Tin Sum Playground, near Block 1, Avon Park",North,NT,Y,
+HKT-7780,HKT,Hoi Pa Street,"Near Wing Lung House, Fuk Loi Estate",Tsuen Wan,NT,Y,
+HKT-7781,HKT,Wu King Road / Wu Chui Road,Near Siu Hei Shopping Centre,Tuen Mun,NT,Y,
+HKT-7786,HKT,Kwai Chung Road,Outside Chun Po Building,Kwai Tsing,NT,Y,
+HKT-7793,HKT,Ping Ha Road,Outside LRT's Hang Mei Tsuen Station,Yuen Long,NT,Y,
+HKT-7795,HKT,Castle Peak Road - Ping Shan,Outside NRT's Tong Fong Tsuen Station,Yuen Long,NT,Y,
+HKT-7797,HKT,Castle Peak Road - Hung Shui Kiu,"Outside Tin Ha Road Playground, near LRT's Chung Uk Tsuen",Tuen Mun,NT,,Y
+HKT-7798,HKT,Castle Peak Road - Lam Tei,Outside LRT's Lam Tei Station ,Tuen Mun,NT,,Y
+HKT-7799,HKT,Siu Hong Road,"Outside Siu Tai House, Siu Hong Court",Tuen Mun,NT,Y,
+HKT-7800,HKT,Castle Peak Road - San Hui,"Outside Block C, Brilliant Garden",Tuen Mun,NT,Y,
+HKT-7801,HKT,Cheung Hang Estate,Outside Hang Chun House,Kwai Tsing,NT,Y,
+HKT-7804,HKT,Pui To Road,"Outside Phase 2, Tuen Mun Town Plaza, near Footbridge to LRT's Pui To Station",Tuen Mun,NT,Y,
+HKT-7808,HKT,Liu To Road,"Outside Cheung Hang Shopping Centre, Cheung Hang Estate",Kwai Tsing,NT,Y,
+HKT-7813,HKT,On Wing Street,Outside Fortune Mansion / Carson Mansion,Tsuen Wan,NT,Y,
+HKT-7814,HKT,Lo Tak Court / Kin Ming Street,Outside PCCW Tsuen Wan Telephone Exchange Building,Tsuen Wan,NT,Y,
+HKT-7817,HKT,Mei Tin Road,"Outside Holfold Garden Commercial Complex, near Bus Stop",Sha Tin,NT,Y,
+HKT-7820,HKT,Tai Wai Road,"Outside Grandway Garden, near MTR's Tai Wai Station",Sha Tin,NT,Y,
+HKT-7821,HKT,Tai Wai Road,Outside Kam Shan Building,Sha Tin,NT,Y,
+HKT-7824,HKT,Mei Tin Road,Outside Tai Wai Public Market,Sha Tin,NT,Y,Y
+HKT-7825,HKT,Mei Tin Road,Outside Tai Wai Public Market,Sha Tin,NT,Y,
+HKT-7826,HKT,Dai Kwai Street,"Outside Dai Kwai Street Exit, Tai Po Waterfront Park",Tai Po,NT,Y,
+HKT-7829,HKT,Yau Oi Estate,"Outside Oi Lok House, near Oi Yung Street",Tuen Mun,NT,Y,
+HKT-7840,HKT,Yeung Tsing Road / Wan Shan Road,Near Tsing Shan Tsuen Village Office,Tuen Mun,NT,Y,
+HKT-7841,HKT,Golden Beach,Outside Golden Beach Office,Tuen Mun,NT,,Y
+HKT-7845,HKT,Tsing Wun Road,Outside LRT's Tsing Shan Tsuen Station,Tuen Mun,NT,Y,
+HKT-7846,HKT,Sha Tsui Road Playground,"Near Exit, Sha Tsui Road",Tsuen Wan,NT,,Y
+HKT-7847,HKT,Chi Fuk Circuit,Near Buddhist Po Ching Home for Aged Women,North,NT,,Y
+HKT-7863,HKT,Ming Yin Road / Wo Hop Shek Road,Junction of Ming Yin Road / Wo Hop Shek Road,North,NT,Y,
+HKT-7864,HKT,Ming Yin Road,Outside Wo Hop Shek Public Toilet,North,NT,Y,
+HKT-7866,HKT,Sun Tin Wai Estate,"Outside Bus Terminus, Sun Tin Wai Estate",Sha Tin,NT,Y,
+HKT-7868,HKT,Pak Wo Road,"Outside Hon Wu House, Yuk Po Court",North,NT,Y,
+HKT-7874,HKT,Ma On Shan Country park,Outside Management Centre,Sha Tin,NT,,Y
+HKT-7875,HKT,Hing Ning Road,Outside Kwai Chung Plaza,Kwai Tsing,NT,Y,
+HKT-7876,HKT,Hang Hong Street,"Outside Chung On Shopping Centre, Chung On Estate",Sha Tin,NT,Y,
+HKT-7878,HKT,Wai Noi Tsuen,Outside Sheung Shui Village Council,North,NT,Y,
+HKT-7879,HKT,Sheung Shui Tung Hing Road,"Outside Po Sheung Tsuen Lane No. 27, Carpark",North,NT,Y,
+HKT-7884,HKT,Pak Wo Road,"Outside Yan Lai House, Yan Shing Court",North,NT,Y,
+HKT-7892,HKT,Tam Kon Chau Road,"Outside Carpark, Mai Po Nature Reserve",Yuen Long,NT,Y,
+HKT-7894,HKT,Lung Wan Street / Lung Sum Lane,"Near Carpark Exit, Metropolis Plaza",North,NT,Y,
+HKT-7901,HKT,Tai Ho Road / Dung Fat Street,Outside Red Cross Tsuen Wan Donor Centre,Tsuen Wan,NT,Y,
+HKT-7909,HKT,Sai Sha Road,Outside Ma On Shan Plaza,Sha Tin,NT,Y,
+HKT-7914,HKT,Fairview Park Boulevard,"Near Roundabout Exit, Outside Fairview Park Offtake Station",Yuen Long,NT,Y,
+HKT-7916,HKT,Lung Wan Street,Outside Metropolis Plaza,North,NT,Y,
+HKT-7918,HKT,Castle Peak Road - Lam Tei / Lam Tei Main Street,Near Miu Fat Buddhist Monastery,Tuen Mun,NT,Y,
+HKT-7939,HKT,Castle Peak Road - Tsuen Wan / Lai Shun Road,"Outside Block 1, Belvedere Garden Phase 3",Tsuen Wan,NT,Y,
+HKT-7961,HKT,Sam Shing Street,"Near Carpark, Sam Shing Shopping Centre",Tuen Mun,NT,Y,
+HKT-7963,HKT,Nam Wan Road,"Outside Wan Loi House, Wan Tau Tong Estate",Tai Po,NT,Y,
+HKT-7970,HKT,Tsing Yi Estate,"Outside Bus Terminus, Tsing Yi Estate",Kwai Tsing,NT,Y,
+HKT-7974,HKT,Chui Lok Street,"Outside Block 1, Evergreen Court",Tai Po,NT,,Y
+HKT-7976,HKT,Chui Lok Street,"Outside Block B, Beautiful Garden",Tai Po,NT,Y,
+HKT-7979,HKT,Mei Sun Lane,Outside Wing Fai Plaza,Tai Po,NT,Y,
+HKT-7982,HKT,Tai Po Tai Wo Road / Ting Tai Road,"Outside Block C, Greenery Plaza",Tai Po,NT,Y,
+HKT-7985,HKT,On Chee Road / Ting Kok Road,Outside Tai Po Old Market Playground,Tai Po,NT,Y,
+HKT-7986,HKT,Kwong Fuk Road / Tsing Yuen Street,Outside Kwong Fuk Place,Tai Po,NT,Y,
+HKT-7992,HKT,Ming Kum Road,Near Eight Regency / Bus Stop,Tuen Mun,NT,Y,
+HKT-7994,HKT,Leung Tak Street,"Outside Tower 2, Goodrich Garden",Tuen Mun,NT,Y,
+HKT-8009,HKT,On Chun Street,Near Wu Kai Sha Youth Village,Sha Tin,NT,Y,
+HKT-8015,HKT,Tai Fong Street,"Outside LRT's Tai Hing (South) Station / Bus Terminus, Tai Hing",Tuen Mun,NT,Y,
+HKT-8026,HKT,San Tsing Street / Ho Pong Street,"Near Block 1, Eldo Court / San Hui Public Market",Tuen Mun,NT,Y,
+HKT-8027,HKT,Au Pui Wan Street,"Outside Exit D, MTR's Fo Tan Station",Sha Tin,NT,Y,
+HKT-8038,HKT,Hin Keng Street,"Outside Hin Keng Shopping Centre, Hin Keng Estate",Sha Tin,NT,Y,
+HKT-8047,HKT,Tin Sam Street,Outside Carado Garden,Sha Tin,NT,Y,
+HKT-8054,HKT,Hin Tai Street / Hin Hong Street,Outside Julimount Garden,Sha Tin,NT,Y,
+HKT-8074,HKT,Lek Yuen Street,Outside Sha Tin Fun City,Sha Tin,NT,,Y
+HKT-8075,HKT,Lek Yuen Street,Outside Sha Tin Fun City,Sha Tin,NT,Y,
+HKT-8082,HKT,Hop Yick Road,Outside Hop Yick Centre,Yuen Long,NT,Y,
+HKT-8086,HKT,Chung Nga Road / Ting Lai Road,Near Nam Hang Village,Tai Po,NT,Y,
+HKT-8087,HKT,Plover Cove Road,"Outside Kwong Yan House, Kwong Fuk Estate",Tai Po,NT,Y,
+HKT-8096,HKT,Chung Nga Road / Chuen On Road,Juction of Chung Nga Road / Chuen On Road,Tai Po,NT,Y,
+HKT-8101,HKT,Wo Keng Shan Road,"Outside Public Toilet, North East New Territories Landfill",North,NT,,Y
+HKT-8136,HKT,Ting Kok Road,"Outside Block 1, Tai Ping Industrial Centre",Tai Po,NT,,Y
+HKT-8142,HKT,Container Port Road South,"Outside Cargo Trunk Entrance Gate, Container Terminal 8",Kwai Tsing,NT,Y,
+HKT-8146,HKT,Kin Lok Street / Kin Yip Street,Outside Kin Yip Street Cooked Food Market,Yuen Long,NT,,Y
+HKT-8147,HKT,Castle Peak Road - Kwu Tung,Near Kwu Tung Village Office,North,NT,Y,
+HKT-8150,HKT,Fung Kam Street,Outside Fung Fung Kam Street Sports Centre,Yuen Long,NT,Y,
+HKT-8158,HKT,Kau Hui Chik Street,Outside Tai Po Jockey Club Clinic,Tai Po,NT,Y,
+HKT-8166,HKT,Lido Beach Sham,Outside Beach Office,Tsuen Wan,NT,Y,
+HKT-8169,HKT,Deep Bay Road,Near Ha Tsuen Heung Pak Nai Village Office,Yuen Long,NT,,Y
+HKT-8226,HKT,Shan Mei Street,"Outside San Mei Street Playground, near Fo Tan Post Office",Sha Tin,NT,Y,
+HKT-8247,HKT,Tsung Tau Ha Road,Outside Kin Ho Industrial Building,Sha Tin,NT,Y,
+HKT-8395,HKT,Hoi Pa Street  / Tso Kung Street,"Outside Hong Lok Lau, Moon Lok Dai Ha",Tsuen Wan,NT,,Y
+HKT-8398,HKT,Lo Tak Court,Outside On Foo Building,Tsuen Wan,NT,Y,
+HKT-8400,HKT,Shek Wai Kok Road,"Outside Bus Terminus, near Shek Kuk House, Shek Wai Kok Estate",Tsuen Wan,NT,Y,
+HKT-8402,HKT,Sha Tsui Road,Outside Bo Shek Mansion,Tsuen Wan,NT,Y,
+HKT-8435,HKT,Texco Road / Tsuen Wing Street,"Outside Tai Fat House, East Asia Garden",Tsuen Wan,NT,Y,
+HKT-8441,HKT,Tsuen Wah Street,Outside Tsuen Fu Street Garden,Tsuen Wan,NT,Y,
+HKT-8442,HKT,Tuen Hi Road / Tuen Wui Street,Outside Tuen Mun Town Plaza,Tuen Mun,NT,Y,
+HKT-8626,HKT,Wai Ming Street,"Outside Wai Ming Street Garden, near Block 10, Flora Plaza",North,NT,Y,
+HKT-8630,HKT,Lo Ping Road,"Outside Exit, Education University of Hong Kong",Tai Po,NT,Y,
+HKT-8704,HKT,Tung Chung Waterfront Road,Outside Tung Chung Development Public Pier,Islands,NT,,Y
+HKT-8707,HKT,Hau Tei Square,Outside Lady Trench Polyclinic,Tsuen Wan,NT,Y,
+HKT-8712,HKT,Po Toi O Chuen Road,"Near Mini Bus Stop, Po Toi O",Sai Kung,NT,,Y
+HKT-8713,HKT,Lam Kam Road,"Outside Bus Stop, Hang Ha Po Village",Tai Po,NT,,Y
+HKT-8742,HKT,Tsing Yi Promenade,"Outside Block 9, Villa Esplanada",Kwai Tsing,NT,Y,
+HKT-8745,HKT,Sheung Yiu Village,Near Sheung Yiu Folk Museum,Sai Kung,NT,,Y
+HKT-8747,HKT,Yan Yee Road,"Near Carpark, Yan Yee Road",Sai Kung,NT,,Y
+HKT-8756,HKT,Luk Yuen Street / Kai Man Path,"Outside Yan Oi Square, near Golden Orchid Court",Tuen Mun,NT,Y,
+HKT-8761,HKT,Chak Cheung Street,"Near Bus Stop, MTR's University Station",Sha Tin,NT,Y,
+HKT-8762,HKT,Tsuen Nam Road,"Outside Block 2, Grandway Garden, near Bus Stop",Sha Tin,NT,Y,
+HKT-8767,HKT,Tap Mun Hoi Pong Street,Near Tap Mun Pier,Tai Po,NT,,Y
+HKT-8770,HKT,Hoi Ha Road,Near Hoi Ha Village,Tai Po,NT,,Y
+HKT-8775,HKT,Sam A Tsuen,Near Lamp Pole VA0335,North,NT,,Y
+HKT-8776,HKT,Kat O Pier,Outside Kat O Pier,North,NT,,Y
+HKT-8804,HKT,Pat Heung Road,Tai Lam Tunnel Bus Interchange (Yuen Long Direction),Yuen Long,NT,Y,
+HKT-8805,HKT,Pat Heung Road,Tai Lam Tunnel Bus Interchange (Kowloon Direction),Yuen Long,NT,Y,
+HKT-8806,HKT,Tin Shui Road,"Outside Tin Chak Shopping Centre, Tin Chak Estate",Yuen Long,NT,Y,
+HKT-8810,HKT,Castle Peak Road - San Tin,"Outside Cross Boundary Shuttle Bus, San Tin Terminus",Yuen Long,NT,,Y
+HKT-8812,HKT,Kiu Tau Road,"Outside Bus Stop, Kau Lung Hang",Tai Po,NT,Y,
+HKT-8815,HKT,Lai Chi Wo Tsuen,"Outside Siu Ying School, near Temple",North,NT,,Y
+HKT-8820,HKT,Wo Muk Road,"Outside Wo Muk Road Playground, near Union Plaza",North,NT,,Y
+HKT-8821,HKT,Kwong Fuk Road,Outside Fuk Wah Building,Tai Po,NT,Y,
+HKT-8827,HKT,San Wan Road ,"Outside Exit D1, MTR's Sheung Shui Station, near Bus Stop",North ,NT,,Y
