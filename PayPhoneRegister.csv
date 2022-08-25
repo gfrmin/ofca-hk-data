@@ -164,7 +164,6 @@ HKT-1603,HKT,Tai Tam Road / Tai Tam Reservoir Road,"Near Bus Stop (Northbound), 
 HKT-1605,HKT,Eastern Hospital Road / Caroline Hill Road,"Outside Eastern Hospital Road Sitting-out Area, near Confucius Hall Secondary School",Wan Chai,HK,Y,
 HKT-1658,HKT,Ap Lei Chau Estate,"Outside Bus Terminus, Ap Lei Chau, near Multi-Storey Carpark",Southern,HK,,Y
 HKT-1666,HKT,Lok Ku Road,Near Ladder Street,Central and Western,HK,Y,
-HKT-1671,HKT,Queensway,Outside One Pacific Place,Central and Western,HK,Y,
 HKT-1706,HKT,King's Road,Outside Majestic Apartments,Eastern,HK,,Y
 HKT-1716,HKT,Garden Road,Outside Champion Tower,Central and Western,HK,,Y
 HKT-1727,HKT,Connaught Road Central / Pottinger Street,Outside Wing On House,Central and Western,HK,,Y
@@ -214,7 +213,6 @@ HKT-4021,HKT,Lung Poon Street,"Outside Exit A1, MTR's Diamond Hill Station",Wong
 HKT-4023,HKT,Kai Lim Road,"Outside Artificial Turf Soccer Pitch, Kwun Tong Recreation Ground",Kwun Tong,KLN,Y,
 HKT-4029,HKT,Hiram's Highway / Nam Wai Road,"Outside Exit, Roseville Villas",Sai Kung,NT,,Y
 HKT-4030,HKT,Tai A Mun Road,"Outside Carpark, Clear Water Bay Second Beach, near Police Report Centre",Sai Kung,NT,,Y
-HKT-4032,HKT,Pak Sha Wan Tam Wah Ching Sea Acivity Centre,Outside Office,Sai Kung,NT,,Y
 HKT-4033,HKT,Clear Water Bay Road,"Outside Carpark, Clear Water Bay Country Park",Sai Kung,NT,,Y
 HKT-4035,HKT,Silverstrand Beach Road,"Outside Carpark, Silverstrand Beach",Sai Kung,NT,,Y
 HKT-4038,HKT,Lung Cheung Road ,"Outside Toilet, Lung Cheung Road Lookout",Sham Shui Po,KLN,Y,
@@ -282,7 +280,7 @@ HKT-4303,HKT,Hiram's Highway,Outside Kau Sai San Tsuen / Heber's Villa,Sai Kung,
 HKT-4310,HKT,Nathan Road / Prince Edward Road West,Outside Bijou Apartments,Yau Tsim Mong ,KLN,Y,
 HKT-4311,HKT,Argyle Street,"Outside Exit D2, MTR's Mong Kok Station",Yau Tsim Mong ,KLN,Y,
 HKT-4315,HKT,Sai Yeung Choi Street South,"Outside Exit D3, MTR's Mong Kok Station",Yau Tsim Mong ,KLN,,Y
-HKT-4320,HKT,Argyle Street,Outside Wai Fung Plaza,Yau Tsim Mong ,KLN,Y,
+HKT-4320,HKT,Argyle Street,Outside Wai Fung Plaza,Yau Tsim Mong ,KLN,,Y
 HKT-4329,HKT,Sai Yeung Choi Street South / Nullah Road,Outside Allied Plaza,Yau Tsim Mong ,KLN,Y,
 HKT-4337,HKT,Bute Street,Outside Mascot House,Yau Tsim Mong ,KLN,Y,
 HKT-4339,HKT,Nathan Road,Outside Hang Seng Mong Kong Building,Yau Tsim Mong ,KLN,Y,
@@ -395,7 +393,7 @@ HKT-5037,HKT,Portland Street,Outside Edward Mansion,Yau Tsim Mong ,KLN,Y,
 HKT-5051,HKT,Arran Street,Outside Hung Luen Building,Yau Tsim Mong ,KLN,Y,
 HKT-5060,HKT,Waterloo Road,Outside 3A Waterloo Road,Yau Tsim Mong ,KLN,Y,
 HKT-5065,HKT,Lai Chi Kok Road,Outside SKH Kei Wing Primary School,Yau Tsim Mong ,KLN,,Y
-HKT-5071,HKT,Argyle Street,Outside On May Mansion,Yau Tsim Mong ,KLN,Y,
+HKT-5071,HKT,Argyle Street,Outside On May Mansion,Yau Tsim Mong ,KLN,,Y
 HKT-5091,HKT,Cheung Sha Wan Road,Outside Tin On Industrial Building,Sham Shui Po,KLN,Y,
 HKT-5135,HKT,South Wall Road / Nga Tsin Wai Road,Outside Goldview Court,Kowloon City,KLN,Y,
 HKT-5136,HKT,Lung Cheung Road,"Outside Exit A, MTR's Wong Tai Sin Station",Wong Tai Sin,KLN,,Y
@@ -545,7 +543,6 @@ HKT-7421,HKT,Luen Hing Street / Wo Fung Street,Outside Commune Modern,North,NT,Y
 HKT-7424,HKT,Luen Shing Street / Wo Tai Street,Outside 39 Wo Tai Street,North,NT,Y,
 HKT-7426,HKT,On Cheung Road,"Outside Block C, Treasure Garden",Tai Po,NT,Y,
 HKT-7428,HKT,On Chee Road / On Cheung Road,"Outside Block C, Jade Plaza",Tai Po,NT,,Y
-HKT-7434,HKT,Fanling Station Road,"Outside Exit A2, MTR's Fanling Station",North,NT,Y,
 HKT-7435,HKT,On Chee Road,"Outside Block C, Jade Plaza",Tai Po,NT,Y,
 HKT-7436,HKT,On Chee Road,"Outside Block C, Jade Plaza",Tai Po,NT,,Y
 HKT-7438,HKT,On Chee Road / On Cheung Road,"Outside Block 3, Eightland Garden",Tai Po,NT,Y,
