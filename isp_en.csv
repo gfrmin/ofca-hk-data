@@ -1,13 +1,10 @@
 ﻿ISP_TYPE,LICENCE_NO,LICENSEE_NAME,ISSUE_DATE
 SBO-3,074,"KDDI Hong Kong Limited",2010-05-18
-SBO-3,094,"Hong Kong Broadband Network Limited",2009-12-07
-SBO-3,095,"Telstra International Limited",2013-12-28
 SBO-3,110,"HKNet Company limited",2010-10-11
 SBO-3,116,"Global Link Information Services Limited",2009-12-30
 SBO-3,133,"Vision Network Limited",2010-04-12
 SBO-3,148,"Tiglion Consultancy Company Limited",2010-06-23
 SBO-3,165,"Internet Solutions Limited",2010-08-25
-SBO-3,168,"Byron Richfield Limited",2010-09-06
 SBO-3,180,"The Chinese University of Hong Kong",2010-10-04
 SBO-3,193,"Sing Tao Limited",2009-11-25
 SBO-3,214,"IST Company Limited",2010-03-11
@@ -16,13 +13,10 @@ SBO-3,229,"Resources Link Network Limited",2010-06-10
 SBO-3,230,"Lumen Technologies Hong Kong Limited",2014-06-19
 SBO-3,235,"PowerNet Company Limited",2010-06-28
 SBO-3,261,"Netsoft Limited",2009-11-26
-SBO-3,280,"NTT Com Asia Limited",2010-05-02
 SBO-3,305,"Cyber Channel International Limited",2010-07-08
 SBO-3,309,"Infocan Computer (Hong Kong) Limited",2010-07-18
 SBO-3,312,"A.J. Frontier Company Limited",2010-08-05
 SBO-3,329,"New Sky Internet Limited",2010-10-14
-SBO-3,379,"Cityline (Hong Kong) Limited",2010-07-22
-SBO-3,418,"SmarTone Mobile Communications Limited",2009-11-26
 SBO-3,436,"CITIC Telecom International CPC Limited",2009-12-23
 SBO-3,438,"Deutsche Telekom Global Business Solutions China (HK) Limited",2009-12-23
 SBO-3,457,"iBasis (Hong Kong) Limited",2010-01-18
@@ -39,8 +33,6 @@ SBO-3,607,"Cyber On-air (Asia) Limited",2009-11-17
 SBO-3,624,"AT&T Global Network Services Hong Kong Limited",2010-01-07
 SBO-3,625,"Fame Union Limited",2010-01-12
 SBO-3,636,"ET Net Limited",2010-02-14
-SBO-3,648,"China Mobile Hong Kong Company Limited",2010-03-29
-SBO-3,657,"Hong Kong Telecommunications (HKT) Limited",2010-04-26
 SBO-3,675,"SpeedCast Limited",2010-05-30
 SBO-3,682,"China Tietong HongKong Telecom Company Limited",2010-06-08
 SBO-3,688,"Reach Cable Networks Limited",2010-06-19
@@ -48,7 +40,6 @@ SBO-3,712,"CITIC Telecom International (Data) Limited",2010-08-09
 SBO-3,719,"Pacific One Net Limited",2010-08-15
 SBO-3,723,"Towngas Telecomm. Fixed Network Limited",2010-08-23
 SBO-3,744,"Winstar Pacific Limited",2010-09-28
-SBO-3,756,"Equinix Hong Kong Limited",2010-10-17
 SBO-3,770,"CTM (HK) Limited",2009-11-20
 SBO-3,777,"The Hongkong & Shanghai Banking Corporation Limited ",2009-12-02
 SBO-3,824,"OWT Asia Limited",2014-03-27
@@ -61,9 +52,9 @@ SBO-3,901,"PCCW Global Limited",2009-11-15
 SBO-3,910,"IPGO.net Limited",2014-08-28
 SBO-3,919,"PCCW Solutions Limited",2009-12-19
 SBO-3,920,"HKBN JOS Limited",2009-12-20
-SBO-3,922,"China Unicom (Hong Kong) Operations Limited",2009-12-29
 SBO-3,932,"PCCW-HKT Business Services Limited",2010-02-21
 SBO-3,938,"Global Call Limited",2010-03-05
+SBO-3,951,"CHINA-HONGKONG TELECOM LIMITED",2010-04-29
 SBO-3,966,"Hong Kong Science and Tech. Parks Corp.",2010-06-04
 SBO-3,989,"ITO Express Limited",2010-09-17
 SBO-3,1015,"CITIC Telecom International Limited",2009-12-02
@@ -74,7 +65,6 @@ SBO-3,1059,"Telecommunications & Technology Asia Limited",2010-04-25
 SBO-3,1079,"CITY TELECOM (H.K.) LIMITED",2010-07-23
 SBO-3,1087,"Layer One Limited",2010-09-05
 SBO-3,1103,"HK Domain Limited",2009-11-20
-SBO-3,1114,"China Telecom Global Limited",2016-08-08
 SBO-3,1117,"Udomain Web Hosting Company Limited",2010-02-03
 SBO-3,1138,"Hong Kong Internet (Holding) Limited",2010-05-11
 SBO-3,1139,"Level 3 Communications Hong Kong Limited",2010-04-23
@@ -83,7 +73,9 @@ SBO-3,1152,"Haitong International Information Systems Limited",2010-07-24
 SBO-3,1166,"Lucky Tone Communications Limited",2010-10-18
 SBO-3,1168,"Internap Network Services (HK) Limited",2010-10-23
 SBO-3,1201,"ASIX Asia Satellite Internet Exchange Limited",2014-03-04
+SBO-3,1210,"IMC NETWORKS LIMITED",2010-04-26
 SBO-3,1253,"Connet Limited",2010-10-24
+SBO-3,1254,"GTI (HK) LIMITED",2014-06-24
 SBO-3,1258,"HKBN Enterprise Solutions Net Limited",2009-11-04
 SBO-3,1302,"4ward Communications Limited",2010-09-04
 SBO-3,1319,"Top Express Communications Limited",2009-11-08
@@ -98,6 +90,7 @@ SBO-3,1413,"Dragon Telecom Global Co. Limited",2014-07-03
 SBO-3,1420,"China Hong Kong International Communication Company Limited",2010-08-04
 SBO-3,1427,"Cypress Telecom Limited",2010-09-12
 SBO-3,1444,"AsiaTech Telecom Limited",2009-12-16
+SBO-3,1445,"Sun Mobile Limited",2009-12-19
 SBO-3,1450,"Golden Sun Holdings International Limited",2010-01-29
 SBO-3,1456,"Pacswitch Globe Telecom Limited",2015-02-12
 SBO-3,1460,"China Broadband Communications (Hong Kong) Company Limited",2010-02-26
@@ -113,11 +106,12 @@ SBO-3,1541,"Simcentric Solutions Limited",2010-04-15
 SBO-3,1544,"Eranet International Limited",2010-04-21
 SBO-3,1547,"Telenor Global Services Hong Kong Limited",2014-05-19
 SBO-3,1557,"Coastnet Communication (HK) Limited",2010-07-20
-SBO-3,1564,"ABS (HK) Limited",2010-08-23
 SBO-3,1565,"DNA Asia Pacific Limited",2010-09-08
+SBO-3,1568,"Truphone (Hong Kong) Limited ",2013-04-29
 SBO-3,1588,"Nova Technology Development (Hong Kong) Limited",2011-03-24
 SBO-3,1594,"Gold Sunshine International Limited",2011-05-05
 SBO-3,1604,"Telekomunikasi Indonesia International (HongKong) Limited",2015-07-27
+SBO-3,1609,"Future Power International Limited",2011-10-14
 SBO-3,1613,"OneNet HK Limited",2012-01-04
 SBO-3,1614,"Company TTK Asia Limited",2012-02-17
 SBO-3,1617,"IPTP Limited",2012-04-20
@@ -127,6 +121,7 @@ SBO-3,1631,"OneAsia Network Limited",2013-08-28
 SBO-3,1637,"HKCOLO.NET Limited",2012-11-27
 SBO-3,1650,"263 Mobile Communications (HongKong) Limited",2013-03-28
 SBO-3,1651,"2012 Limited",2013-03-27
+SBO-3,1655,"AMOEBA LIMITED",2013-05-06
 SBO-3,1661,"i4HK Limited",2013-06-11
 SBO-3,1662,"BDX Data Center (HK) Limited",2013-07-04
 SBO-3,1667,"DYXnet Data Centre Services Limited",2013-09-02
@@ -137,6 +132,7 @@ SBO-3,1682,"WNT Technology Limited",2014-02-12
 SBO-3,1683,"Diyixian Internet Centre Limited",2014-02-26
 SBO-3,1684,"Esun Technology International Co., Limited",2014-04-22
 SBO-3,1686,"Efly Network Limited",2014-06-04
+SBO-3,1687,"Multibyte Info Technology Limited",2014-11-28
 SBO-3,1690,"NTC Asia Limited",2014-07-02
 SBO-3,1698,"SPEEDY GROUP CLOUD LIMITED",2014-10-21
 SBO-3,1700,"ISL HK Limited",2014-11-21
@@ -147,7 +143,6 @@ SBO-3,1705,"Gateway Technology Development Company Limited",2015-01-29
 SBO-3,1708,"GDS (Hong Kong) Limited",2015-04-17
 SBO-3,1710,"Rapid Shield Company Limited",2015-04-28
 SBO-3,1714,"Changxin Group China Corporation Limited",2015-08-03
-SBO-3,1715,"Asia Telecom Management Limited",2015-08-03
 SBO-3,1720,"e-Smart System Inc.",2015-11-30
 SBO-3,1721,"Viking Telecom Limited",2015-12-07
 SBO-3,1722,"Equinix (Hong Kong) Enterprises Limited",2015-12-15
@@ -160,9 +155,11 @@ SBO-3,1736,"Bit Exchange Systems Limited",2016-10-28
 SBO-3,1742,"Telstra PBS Limited ",2016-12-21
 SBO-3,1744,"Network Joint (HK) Limited",2017-01-20
 SBO-3,1750,"The Hong Kong Internet eXchange Limited",2017-07-11
+SBO-3,1751,"Webbing Hong Kong Limited",2017-07-14
 SBO-3,1752,"Fnetlink Co., Limited",2017-08-03
 SBO-3,1753,"Hyalroute Communication Group Limited",2017-08-11
 SBO-3,1754,"LinkChina Telecom Global Limited",2017-08-15
+SBO-3,1757,"Century Snail Communication Technology (HK) Co., Limited",2017-10-06
 SBO-3,1758,"Cloudest (HK) Limited",2017-10-12
 SBO-3,1760,"Zayo Group (HK) Limited",2017-10-26
 SBO-3,1762,"Acme Communications Limited",2017-11-03
@@ -176,12 +173,12 @@ SBO-3,1771,"Shun Tak - China Travel Ship Management Limited",2018-03-07
 SBO-3,1772,"Sicitel Limited",2018-03-16
 SBO-3,1773,"Asiamind Netcom Group Limited",2018-03-22
 SBO-3,1774,"Taobao Hong Kong Limited",2018-05-14
+SBO-3,1776,"Hongkong Joy Telecom Co., Limited",2019-01-11
 SBO-3,1777,"Pacific Light Data Communication Co., Limited",2018-06-26
 SBO-3,1778,"Joint Universities Computer Centre Limited ",2018-06-28
 SBO-3,1780,"Baiwu (HK) International Limited  ",2018-08-06
 SBO-3,1782,"CAC Telecom International Limited ",2018-08-13
 SBO-3,1783,"iNET COMPANY LIMITED",2018-08-14
-SBO-3,1784,"Xinyuan Interconnect (Hong Kong) Limited  ",2018-08-13
 SBO-3,1785,"Earth Network Technology (Hong Kong) Co., Limited ",2018-08-14
 SBO-3,1786,"UNICONVERGE LIMITED",2018-08-17
 SBO-3,1787,"Datamax OSI Limited",2018-08-17
@@ -266,18 +263,23 @@ SBO-3,1889,"ZHENGTONG GLORY COMMUNICATION TECHNOLOGY LIMITED",2022-07-22
 SBO-3,1890,"GA Cloud Technology (Hong Kong) Limited ",2022-08-12
 SBO-3,1891,"SilverTech Telecom Co., Limited  ",2022-08-16
 SBO-3,1892,"URBAN CONNECTED (HK) CO., LIMITED ",2022-08-26
-SBO-1/2,2,"PowerTech Worldcom Limited ",2010-04-13
-SBO-1/2,11,"VOXBONE NV",2010-05-15
-SBO-1/2,22,"China Mobile International Limited",2016-03-31
-SBO-1/2,24,"EC Telecom Limited",2013-03-28
-SBO-1/2,27,"Tata Communications (Hong Kong) Limited",2015-09-18
-SBO-1/2,35,"Singapore Telecom Hong Kong Limited",2020-06-10
-SBO-1/2,036,"BT Hong Kong Limited",2021-10-13
-SBO-1/2,38,"SPEEDY GROUP CORP. LIMITED",2022-07-08
+SBO-3,1893,"BGREAT COMMUNICATION NETWORK HONG KONG LIMITED  ",2022-09-15
+SBO-3,1894,"Innovic Technology Corporation Limited",2022-09-21
+SBO-3,1895,"ENJOYVC CLOUD GROUP LIMITED ",2022-09-29
+SBO-3,2,"PowerTech Worldcom Limited ",2010-04-13
+SBO-3,11,"VOXBONE NV",2010-05-15
+SBO-3,24,"EC Telecom Limited",2013-03-28
+SBO-3,27,"Tata Communications (Hong Kong) Limited",2015-09-18
+SBO-3,35,"Singapore Telecom Hong Kong Limited",2020-06-10
+SBO-3,036,"BT Hong Kong Limited",2021-10-13
+SBO-3,38,"SPEEDY GROUP CORP. LIMITED",2022-07-08
+SBO-3,1768,"Huawei Services (Hong Kong) Co., Limited",2021-09-30
 UCL,002,"China Mobile Hong Kong Company Limited",2022-06-30
+UCL,004,"Hutchison Telephone Company Limited",2022-06-30
 UCL,008,"Hong Kong Telecommunications (HKT) Limited",2022-06-30
 UCL,014,"Reach Networks Hong Kong Limited and Reach Cable Networks Limited",2009-06-29
-UCL,017,"China Telecom Global Limited",2013-08-22
+UCL,017,"China Telecom Global Limited",2022-09-15
+UCL,018,"SmarTone Mobile Communications Limited",2022-06-30
 UCL,021,"Vodafone Enterprise Hong Kong Limited",2010-02-05
 UCL,022,"HKBN Enterprise Solutions Limited",2010-06-20
 UCL,023,"HGC Global Communications Limited",2010-06-30
