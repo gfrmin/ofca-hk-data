@@ -76,7 +76,6 @@ SBO-3,1322,"HDC Data Centre Limited",2009-11-14
 SBO-3,1338,"SunnyVision Limited",2010-03-09
 SBO-3,1357,"LiveCom Limited",2013-08-26
 SBO-3,1381,"Virtual Switching Consultancy Limited",2009-11-22
-SBO-3,1392,"Sonic Point Limited",2010-02-15
 SBO-3,1394,"MEGA VANTAGE INFORMATION TECHNOLOGY (HONG KONG) LIMITED",2015-02-28
 SBO-3,1405,"Hong Kong Cyberport Management Company Limited",2010-06-16
 SBO-3,1413,"Dragon Telecom Global Co. Limited",2014-07-03
@@ -94,7 +93,6 @@ SBO-3,1517,"Ce Dongli Technology (Hong Kong) Company Limited",2009-11-27
 SBO-3,1518,"Asia Satellite Telecommunications Company Limited",2009-11-27
 SBO-3,1523,"43 Global Consultants Limited",2013-12-14
 SBO-3,1527,"GTT INTERNATIONAL NETWORK SERVICES HONG KONG LIMITED",2009-12-23
-SBO-3,1530,"WCHost Network Limited",2010-01-21
 SBO-3,1541,"Simcentric Solutions Limited",2010-04-15
 SBO-3,1544,"Eranet International Limited",2010-04-21
 SBO-3,1547,"Telenor Global Services Hong Kong Limited",2014-05-19
@@ -121,7 +119,6 @@ SBO-3,1667,"DYXnet Data Centre Services Limited",2013-09-02
 SBO-3,1673,"Colt Technology Services Limited",2013-10-10
 SBO-3,1680,"Litegrid Networks Limited",2014-01-14
 SBO-3,1681,"Interaptus Limited",2014-01-30
-SBO-3,1682,"WNT Technology Limited",2014-02-12
 SBO-3,1683,"Diyixian Internet Centre Limited",2014-02-26
 SBO-3,1684,"Esun Technology International Co., Limited",2014-04-22
 SBO-3,1686,"Efly Network Limited",2014-06-04
@@ -129,6 +126,7 @@ SBO-3,1687,"Multibyte Info Technology Limited",2014-11-28
 SBO-3,1690,"NTC Asia Limited",2014-07-02
 SBO-3,1700,"ISL HK Limited",2014-11-21
 SBO-3,1702,"Guoli Holdings Company Limited",2014-12-11
+SBO-3,1703,"NIX Global Communication Limited",2014-12-18
 SBO-3,1704,"Cogent Communications Hong Kong Limited",2015-01-29
 SBO-3,1705,"Gateway Technology Development Company Limited",2015-01-29
 SBO-3,1708,"GDS (Hong Kong) Limited",2015-04-17
@@ -175,15 +173,15 @@ SBO-3,1790,"Comba Telecom Limited ",2018-09-19
 SBO-3,1791,"Winbright Corporation Limited ",2018-10-05
 SBO-3,1792,"Sincitel International Communications Co., Limited",2018-10-12
 SBO-3,1793,"Ancent Group Limited ",2018-10-23
-SBO-3,1794,"IXP Technology Co., Limited ",2018-10-23
-SBO-3,1797,"Upnet Technology International Limited ",2019-01-28
-SBO-3,1798,"Yottabyte Communications Group Limited ",2019-02-15
+SBO-3,1794,"IXP Technology Co., Limited",2018-10-23
+SBO-3,1797,"Upnet Technology International Limited",2019-01-28
+SBO-3,1798,"Yottabyte Communications Group Limited",2019-02-15
 SBO-3,1800,"DCConnect Global Limited",2019-03-20
-SBO-3,1803,"Intelligent Connection Limited ",2019-04-30
+SBO-3,1803,"Intelligent Connection Limited",2019-04-30
 SBO-3,1806,"XLC Global Limited",2019-06-18
 SBO-3,1807,"New POS Network (HK) Ltd",2019-07-19
-SBO-3,1808,"CityBus (China) Limited ",2019-07-30
-SBO-3,1809,"Neway Electronics Technology Limited ",2019-07-26
+SBO-3,1808,"CityBus (China) Limited",2019-07-30
+SBO-3,1809,"Neway Electronics Technology Limited",2019-07-26
 SBO-3,1810,"RISE ASIA TECHNOLOGY LIMITED",2019-08-29
 SBO-3,1811,"Hong Kong Cloudbase Technology Co., Limited ",2019-10-11
 SBO-3,1812,"Harvest International Development (HK) Limited",2019-12-10
@@ -206,7 +204,7 @@ SBO-3,1833,"Humeng Technology International Co., Limited",2020-10-22
 SBO-3,1091,"POWERNETIX LIMITED",2020-11-11
 SBO-3,1834,"FEIXIN TECH GLOBAL SERVICE LIMITED",2021-01-21
 SBO-3,1835,"HONG KONG HOU LUEN INFORMATION TECHNOLOGY LIMITED",2021-02-02
-SBO-3,1836,"CENTERLINK GLOBAL TELECOM LIMITED ",2021-02-02
+SBO-3,1836,"CENTERLINK GLOBAL TELECOM LIMITED",2021-02-02
 SBO-3,1841,"BLUEFANCY TECHNOLOGY SERVICES LIMITED",2021-02-25
 SBO-3,1842,"LightWAN Corporation Limited",2021-03-03
 SBO-3,1844,"WIFIPACK LIMITED",2021-04-09
@@ -219,9 +217,9 @@ SBO-3,1853,"GIGANTIC DATA SERVICES LIMITED",2021-07-16
 SBO-3,1854,"Ying Tong Technology (HK) Limited",2021-07-16
 SBO-3,1855,"HONGKONG UNITED TECHNOLOGY HOLDINGS LIMITED",2021-08-05
 SBO-3,1856,"Sinoking Cloud Limited",2021-08-05
-SBO-3,1857,"Digital HK Kin Chuen Limited ",2021-08-05
+SBO-3,1857,"Digital HK Kin Chuen Limited",2021-08-05
 SBO-3,1858,"Dataport Limited",2021-08-16
-SBO-3,1859,"CHILIAN NETWORK TECHNOLOGIES (HONGKONG) LIMITED ",2021-08-16
+SBO-3,1859,"CHILIAN NETWORK TECHNOLOGIES (HONGKONG) LIMITED",2021-08-16
 SBO-3,1861,"SI HAI ZHONG HONG TECHNOLOGY GROUP LIMITED",2021-09-03
 SBO-3,1862,"EZEGG Consultancy Limited",2021-09-03
 SBO-3,1863,"WebVivo Limited",2021-09-07
@@ -231,35 +229,36 @@ SBO-3,1866,"CHINA IPX Communication Limited",2021-10-08
 SBO-3,1867,"Primewan Limited",2021-10-18
 SBO-3,1868,"CHINA INTERNATIONAL CRANCLOUD CO., LIMITED",2021-11-01
 SBO-3,1869,"SHING YUEN CHONG TECHNOLOGY LIMITED",2021-11-01
-SBO-3,1870,"Nova Global ICT (Hong Kong) Limited ",2021-11-10
+SBO-3,1870,"Nova Global ICT (Hong Kong) Limited",2021-11-10
 SBO-3,1871,"KYUSHU TELECOM GLOBAL LIMITED",2021-11-17
 SBO-3,1872,"Qi Zheng Telecommunication Technology (Hong Kong) Company Limited",2021-11-22
 SBO-3,1873,"BGP Network Limited",2021-12-02
-SBO-3,1876,"SUNDII TECHNOLOGY LIMITED ",2022-01-12
-SBO-3,1878,"YouXun Industry (HongKong) Co., Limited ",2022-02-25
-SBO-3,1879,"JUNCOM SMARTECH GLOBAL SERVICE LIMITED ",2022-03-03
-SBO-3,1880,"Tianxin Group Co., Limited ",2022-03-25
-SBO-3,1881,"HONGKONG XIYE LIMITED ",2022-03-29
-SBO-3,1882,"essensys (Hong Kong) Limited  ",2022-05-12
+SBO-3,1876,"SUNDII TECHNOLOGY LIMITED",2022-01-12
+SBO-3,1878,"YouXun Industry (HongKong) Co., Limited",2022-02-25
+SBO-3,1879,"JUNCOM SMARTECH GLOBAL SERVICE LIMITED",2022-03-03
+SBO-3,1880,"Tianxin Group Co., Limited",2022-03-25
+SBO-3,1881,"HONGKONG XIYE LIMITED",2022-03-29
+SBO-3,1882,"essensys (Hong Kong) Limited ",2022-05-12
 SBO-3,1877,"WIFI EGG COMPANY LIMITED",2022-05-16
 SBO-3,1883,"Anyun Internet Technology (Hong Kong) Co., Limited",2022-05-17
-SBO-3,1884,"AGILENAAS GLOBAL SERVICE CO., LIMITED ",2022-06-17
-SBO-3,1886,"Sunnysite Innovation Technology Hong Kong Limited  ",2022-07-05
+SBO-3,1884,"AGILENAAS GLOBAL SERVICE CO., LIMITED",2022-06-17
+SBO-3,1886,"Sunnysite Innovation Technology Hong Kong Limited ",2022-07-05
 SBO-3,1887,"7road International HK Limited",2022-07-07
 SBO-3,1889,"ZHENGTONG GLORY COMMUNICATION TECHNOLOGY LIMITED",2022-07-22
-SBO-3,1890,"GA Cloud Technology (Hong Kong) Limited ",2022-08-12
-SBO-3,1891,"SilverTech Telecom Co., Limited  ",2022-08-16
-SBO-3,1892,"URBAN CONNECTED (HK) CO., LIMITED ",2022-08-26
-SBO-3,1893,"BGREAT COMMUNICATION NETWORK HONG KONG LIMITED  ",2022-09-15
+SBO-3,1890,"GA Cloud Technology (Hong Kong) Limited",2022-08-12
+SBO-3,1891,"SilverTech Telecom Co., Limited",2022-08-16
+SBO-3,1892,"URBAN CONNECTED (HK) CO., LIMITED",2022-08-26
+SBO-3,1893,"BGREAT COMMUNICATION NETWORK HONG KONG LIMITED",2022-09-15
 SBO-3,1894,"Innovic Technology Corporation Limited",2022-09-21
-SBO-3,1895,"ENJOYVC CLOUD GROUP LIMITED ",2022-09-29
-SBO-3,1896,"Sparkoo Technologies Hong Kong Co., Limited  ",2022-10-06
-SBO-3,1897,"Byteplus (Hongkong) Limited  ",2022-10-26
-SBO-3,1898,"WENWANG INFORMATION TECHNOLOGY LIMITED   ",2022-11-02
-SBO-3,1900,"Unitas Communications Hong Kong Limited   ",2022-11-24
-SBO-3,1901,"Baobo Technology Co., Limited   ",2023-01-04
+SBO-3,1895,"ENJOYVC CLOUD GROUP LIMITED",2022-09-29
+SBO-3,1896,"Sparkoo Technologies Hong Kong Co., Limited",2022-10-06
+SBO-3,1897,"Byteplus (Hongkong) Limited",2022-10-26
+SBO-3,1898,"WENWANG INFORMATION TECHNOLOGY LIMITED",2022-11-02
+SBO-3,1900,"Unitas Communications Hong Kong Limited",2022-11-24
+SBO-3,1901,"Baobo Technology Co., Limited",2023-01-04
 SBO-3,1902,"OGCLOUD LIMITED",2023-01-27
-SBO-3,0002,"PowerTech Worldcom Limited ",2010-04-13
+SBO-3,1903,"ARSIN TECHNOLOGY CO., LIMITED",2023-03-09
+SBO-3,0002,"PowerTech Worldcom Limited",2010-04-13
 SBO-3,0011,"VOXBONE NV",2010-05-15
 SBO-3,0024,"EC Telecom Limited",2013-03-28
 SBO-3,0027,"Tata Communications (Hong Kong) Limited",2015-09-18
@@ -272,7 +271,7 @@ UCL,002,"China Mobile Hong Kong Company Limited",2022-06-30
 UCL,004,"Hutchison Telephone Company Limited",2022-06-30
 UCL,008,"Hong Kong Telecommunications (HKT) Limited",2022-06-30
 UCL,014,"Reach Networks Hong Kong Limited and Reach Cable Networks Limited",2009-06-29
-UCL,017,China Telecom Global Limited,2022-09-15
+UCL,017,"China Telecom Global Limited",15/09/2022
 UCL,018,"SmarTone Mobile Communications Limited",2022-06-30
 UCL,021,"Vodafone Enterprise Hong Kong Limited",2010-02-05
 UCL,022,"HKBN Enterprise Solutions Limited",2010-06-20
